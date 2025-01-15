@@ -1,0 +1,10 @@
+The Natural Product gallic acid directly negatively regulates activity of the Enzyme or Transporter potassium voltage-gated channel subfamily H member 2 (human).     The Drug simvastatin directly negatively regulates activity of the Enzyme or Transporter potassium voltage-gated channel subfamily H member 2 (human).     And the Drug simvastatin is causally correlated with the Adverse Event myopathy.
+
+Natural Product Ontology Identifier: http://napdi.org/napdi_srs_imports:camellia_sinensis
+Natural Product or Constituent Ontology Identifier: http://purl.obolibrary.org/obo/CHEBI_30778
+Process Ontology Identifier: http://purl.obolibrary.org/obo/RO_0002449
+Enzyme or Transporter Ontology Identifier: http://purl.obolibrary.org/obo/PR_Q12809
+Process or Pathway Ontology Identifier: http://purl.obolibrary.org/obo/RO_0002449
+Drug Ontology Identifier: http://purl.obolibrary.org/obo/CHEBI_9150
+Causal Relation Ontology Identifier: http://purl.obolibrary.org/obo/RO_0002610
+Adverse Event Ontology Identifier: http://purl.obolibrary.org/obo/MONDO_0005336

@@ -1,0 +1,676 @@
+constituent_name	quantity	related_latin_binomial	related_common_name	chebi_id	source	constituent_uuid
+12beta-acetoxycimigenol 3-o-beta-d-xylopyranoside		Actaea racemosa	Black cohosh		GSRS	ac82e78c-b864-408e-b761-28f4c5e78cb4
+2'-o-acetylactein		Actaea racemosa	Black cohosh		GSRS	99a98e8a-b25c-4629-9dc1-093e785a5aa0
+2'-o-acetylcimicifugoside h1		Actaea racemosa	Black cohosh		GSRS	5804a7f6-1044-4873-a253-17e3ba73f450
+23-o-acetylshengmanol		Actaea racemosa	Black cohosh		GSRS	50216965-efbe-4909-9601-44bf9b501b50
+23-o-acetylshengmanol-3-o-alpha-l-arabinoside		Actaea racemosa	Black cohosh		GSRS	6ebaa5f4-f99f-4100-8b9b-cebf536079e3
+25-o-acetylcimigenol xyloside		Actaea racemosa	Black cohosh		GSRS	0f535c28-4d29-4c35-a3bc-88bb4f2d23d5
+26-deoxycimicifugoside		Actaea racemosa	Black cohosh		GSRS	669ad1c1-d90f-4f4c-86fc-02d7da90fb9f
+3-hydroxytyrosol 3-o-glucoside		Actaea racemosa	Black cohosh		GSRS	a9b53d3a-d57a-4fa8-a972-aa193b5348a0
+3'-o-acetylcimicifugoside h1		Actaea racemosa	Black cohosh		GSRS	77ae3fd3-5234-4511-b1fc-78481d1a242d
+actaeaepoxide-3-o-beta-d-xylopyranoside		Actaea racemosa	Black cohosh		GSRS	b9519a3d-0567-487a-9cff-bf2e3356d403
+actaealactone		Actaea racemosa	Black cohosh		GSRS	ce3b7979-19e2-4c38-800a-f7f75c4b78ba
+caffeoylglycolic acid		Actaea racemosa	Black cohosh		GSRS	0ba683f3-e54f-461d-a758-1065a104ea8e
+cimiaceroside a		Actaea racemosa	Black cohosh		GSRS	210e275b-c564-461d-877c-fc1a89b1c37b
+cimicifugic acid a		Actaea racemosa	Black cohosh		GSRS	ae46b64a-2c6d-4d15-8caa-2e161f464f04
+cimicifugic acid b		Actaea racemosa	Black cohosh		GSRS	e510f6e7-523a-44ae-b438-7cf204f1deb6
+cimicifugic acid d		Actaea racemosa	Black cohosh		GSRS	162a4f3a-84a1-4610-9698-45961c64b64a
+cimicifugic acid e		Actaea racemosa	Black cohosh		GSRS	04c735ae-e985-401b-a393-924bfdf7d6ab
+cimicifugic acid f		Actaea racemosa	Black cohosh		GSRS	656926d0-a858-4459-921b-007147664246
+cimicifugoside h-3		Actaea racemosa	Black cohosh		GSRS	10d5b93f-2888-4de5-8f42-c8a3615a5f80
+cimicifugoside h-4		Actaea racemosa	Black cohosh		GSRS	d083815f-b403-4e48-a91b-ac76b52deda5
+cimicifugoside h1		Actaea racemosa	Black cohosh		GSRS	0fe1bcda-2ea6-443a-a7c3-2d4d700c0ce3
+cimiciphenone		Actaea racemosa	Black cohosh		GSRS	1ede89fd-3500-434d-aba3-7b82623d33ab
+cimiracemate a		Actaea racemosa	Black cohosh		GSRS	6745476d-8b97-41c8-8085-c4be60459f71
+cimiracemate b		Actaea racemosa	Black cohosh		GSRS	a21ffc63-6585-4d4a-aff6-6dd3175b296f
+cimiracemate c		Actaea racemosa	Black cohosh		GSRS	72f0ca94-ea13-44c6-89e5-e88a3cdd9f6d
+cimiracemate d		Actaea racemosa	Black cohosh		GSRS	2e664480-ef1f-470f-8e19-abe92c5cf907
+cimiracemoside b		Actaea racemosa	Black cohosh		GSRS	4d4dc505-4207-490a-a6d3-9f0c6d7febb4
+cimiracemoside c		Actaea racemosa	Black cohosh		GSRS	e1354ace-e558-497c-89e4-fc7b79d73dcd
+cimiracemoside e		Actaea racemosa	Black cohosh		GSRS	73241e8f-5e24-448f-b4b1-bbad64178d62
+cimiracemoside g		Actaea racemosa	Black cohosh		GSRS	5fffba78-e821-4838-9be2-4ab0e5b070f2
+cimiracemoside h		Actaea racemosa	Black cohosh		GSRS	94a65623-8169-4b8d-a8e5-66bfa789587d
+cimiracemoside i		Actaea racemosa	Black cohosh		GSRS	54625106-f140-426e-90ae-2c43c663f90f
+cimiracemoside j		Actaea racemosa	Black cohosh		GSRS	25dd2c34-6e71-412f-a308-9f1d57df6137
+cimiracemoside l		Actaea racemosa	Black cohosh		GSRS	d1841898-3413-48ca-8184-282567ac51cc
+cimiracemoside m		Actaea racemosa	Black cohosh		GSRS	fd8f4d35-0167-44c3-ad91-8201e5f21935
+cimiracemoside n		Actaea racemosa	Black cohosh		GSRS	0acdfd84-e497-45a6-9be4-7e646c4c0878
+cimiracemoside o		Actaea racemosa	Black cohosh		GSRS	4ab3c379-9fe6-4e17-92ea-9be7d2db7c66
+cimiracemoside p		Actaea racemosa	Black cohosh		GSRS	e7a06dc1-fcd3-4923-982a-2013b8ae5206
+neocimicigenoside a		Actaea racemosa	Black cohosh		GSRS	b474e308-bcdd-4c74-99e6-f552210cc701
+neocimicigenoside b		Actaea racemosa	Black cohosh		GSRS	527d2b01-c924-4b6c-aaef-e2a91a0aa6e8
+alpha-escin		Aesculus hippocastanum	Horse-chestnut		GSRS	a591bb47-73c8-49fc-97ef-72810e020663
+escin iia		Aesculus hippocastanum	Horse-chestnut		GSRS	91e31905-ace8-4536-97d3-32847cbb2267
+escin iib		Aesculus hippocastanum	Horse-chestnut		GSRS	01cf9085-8a78-440f-890a-308d871d0fc5
+isoescin ia		Aesculus hippocastanum	Horse-chestnut		GSRS	61bd37b1-9b45-483e-b7fd-7f36960f42f2
+isoescin ib		Aesculus hippocastanum	Horse-chestnut		GSRS	bb4fefd4-f4dc-4486-a47c-e8bf07698fbb
+protoaescigenin		Aesculus hippocastanum	Horse-chestnut		EMA	
+beta-chlorogenin		Allium sativum	Garlic		GSRS	4c42b59b-8619-4a9c-a022-4f72479f1835
+gamma-glutamyl-s-allylcysteine		Allium sativum	Garlic		GSRS	30eaba53-f006-4aa3-b26f-76502f829f51
+alliinase		Allium sativum	Garlic		EMA	
+eruboside b		Allium sativum	Garlic		EMA	
+iso-eruboside b		Allium sativum	Garlic		EMA	
+myrosinase		Allium sativum	Garlic		EMA	
+proto-eruboside b		Allium sativum	Garlic		EMA	
+proto-iso-eruboside b		Allium sativum	Garlic		EMA	
+sativoside		Allium sativum	Garlic		EMA	
+r1-barringenol		Camellia sinensis	Green tea		EMA	
+beta-fenchyl alcohol		Cannabis sativa	Cannabis		GSRS	5941df89-92e3-483e-a1e8-488b3e9124f6
+delta-7-cis-isotetrahydrocannabivarin		Cannabis sativa	Cannabis		GSRS	17478704-e4d5-425d-b80d-6785559a8ab9
+delta-9-cis-tetrahydrocannabinol, (-)-		Cannabis sativa	Cannabis		GSRS	6d13f76f-9ef4-469d-8ec7-0b5f527a1077
+delta-9-tetrahydrocannabiorcolic acid a		Cannabis sativa	Cannabis		GSRS	9e8f0dd8-c2e6-44af-bf39-c9232bb7c0a7
+delta-9-tetrahydrocannabiorcolic acid b		Cannabis sativa	Cannabis		GSRS	c1302e09-8ad4-483b-8d13-cd3839086fd8
+delta1-tetrahydrocannabiorcol		Cannabis sativa	Cannabis		GSRS	81a9257a-7d06-4266-a740-dd4317caa20c
+3-butyl-delta9-tetrahydrocannabinol		Cannabis sativa	Cannabis		GSRS	f210d5cf-a1b7-4fb6-9e4b-f82a5d3fd7f1
+4-thujanol, cis-(+/-)-		Cannabis sativa	Cannabis		GSRS	c1da885c-95d4-44fb-9478-6ef52a43de6f
+cannabichromevarin		Cannabis sativa	Cannabis		GSRS	6685aca1-1d87-4bf7-a7bb-8416b3833201
+cannabicitran		Cannabis sativa	Cannabis		GSRS	0dde13ac-dc1e-4882-bc64-d5592e29351b
+cannabigerolic acid monomethyl ether		Cannabis sativa	Cannabis		GSRS	f6f1d1ec-a650-4ba4-88c3-ecbc729e955a
+cannabigerovarin		Cannabis sativa	Cannabis		GSRS	4bb7517a-198c-4f20-93e0-3205e25eabc1
+cannabivarin		Cannabis sativa	Cannabis		GSRS	9338af20-4302-43e6-b1f8-6e96a0e55cda
+ipsdienol		Cannabis sativa	Cannabis		GSRS	4ba93a7b-67ae-46d2-80bd-f8ee6172e6b2
+tetrahydrocannabivarin		Cannabis sativa	Cannabis		GSRS	1e12a5e7-47eb-4daa-b020-1cbfa4b5c44b
+ylangene		Cannabis sativa	Cannabis		GSRS	95caf451-aa19-4f4f-8eaf-7b9ee1101b8e
+o-methoxycinnamaldehyde		Cinnamomum cassia	Cinnamon		GSRS	a6db6edd-327b-4d44-9f86-a1744a764097
+m-cymene		Cinnamomum verum	Cinnamon		GSRS	f67d9558-50c1-4d18-858f-8a8d9a394126
+urolic acid		Crataegus laevigata	Hawthorn		EMA	
+(s)-2-methyl-6-[(r)-4-methyl-2,4-cyclohexadiene-1alpha-yl]-2-heptene-4-one		Curcuma longa	Turmeric		GSRS	35919b83-4067-4fee-a515-6f77b48317ed
+monodexmethoxycurcumin		Curcuma longa	Turmeric		EMA	
+2-o-caffeoyl-3-coumaroyltartaric acid		Echinacea purpurea	Echinacea		EMA	
+2-o-caffeoyltartaric acid	0.2-0.8%	Echinacea purpurea	Echinacea		EMA	
+2,3-o-dicaffeoyltartaric acid	1.7-2.4%	Echinacea purpurea	Echinacea		EMA	
+isomeric dodeca-2e,4e,8z,10e/z-tetraenoic acid isobutylamide		Echinacea purpurea	Echinacea		EMA	
+isomeric dodeca-2e,4e,8z,10e/z-tetraenoic isobutylamide		Echinacea purpurea	Echinacea		EMA	
+isotussilagine		Echinacea purpurea	Echinacea		EMA	
+pentadeca-8-(z)-en-2-one		Echinacea purpurea	Echinacea		EMA	
+trideca-1-en-3,5,7,9,11-pentaine		Echinacea purpurea	Echinacea		EMA	
+trideca-1,11-dien-3,5,7,9,-tetraine		Echinacea purpurea	Echinacea		EMA	
+trideca-8,10,12-triene-2,4,6-triine		Echinacea purpurea	Echinacea		EMA	
+di-trans-poly-cis-octadecaprenol		Ginkgo biloba	Ginkgo		EMA	
+3'-methoxyglabradin		Glycyrrhiza glabra	Licorice		GSRS	cb9cc90f-e71b-4c4d-b786-c1a9306b27ec
+4-ethyl-lactones		Glycyrrhiza glabra	Licorice		EMA	
+5-hydroxy-8-methoxyl-flavone-7-o-beta-d-glucuronide		Glycyrrhiza glabra	Licorice		EMA	
+5,8-dihydroxy-flavone-7-o-beta-d-glucuronide		Glycyrrhiza glabra	Licorice		EMA	
+galbrene		Glycyrrhiza glabra	Licorice		EMA	
+glabrocoumarin		Glycyrrhiza glabra	Licorice		EMA	2d230676-e81e-4949-8c07-28522e50e5ad
+glabroiso-flavanone b		Glycyrrhiza glabra	Licorice		EMA	
+glabroisoflavanone a		Glycyrrhiza glabra	Licorice		EMA	
+glycamil		Glycyrrhiza glabra	Licorice		GSRS	88d491c2-3af7-4594-82e6-ff9f55db82fd
+glychionide a		Glycyrrhiza glabra	Licorice		EMA	3a4fa49d-9e4d-42e1-b6d5-e7a80b026858
+glycyrretol		Glycyrrhiza glabra	Licorice		EMA	
+hispaglabridin b		Glycyrrhiza glabra	Licorice		EMA	
+isoglaborlide		Glycyrrhiza glabra	Licorice		EMA	
+licoisoflavone b		Glycyrrhiza glabra	Licorice		GSRS	3857faaf-c5ac-4b2f-b2a1-766bb080dd17
+licuraside		Glycyrrhiza glabra	Licorice		EMA	51f7a6cf-e86a-41ca-a79c-1f39e848a0cc
+glycyrdione b		Glycyrrhiza inflata	Licorice		GSRS	3da5fd0d-397e-4e21-a88f-15ac9f4a70b6
+licoflavone c		Glycyrrhiza inflata	Licorice		GSRS	1cf54029-48c7-4e55-92af-09b54484a116
+3-o-(beta-d-glucuronopyranosyl-(1->2)-beta-d-galactopyranosyl)glycyrrhetic acid		Glycyrrhiza uralensis	Licorice		GSRS	b7f9147d-6e94-423a-9e7b-aaf6a62bf3d0
+dehydroglyasperin c		Glycyrrhiza uralensis	Licorice		GSRS	f58f53c6-3ddb-4f52-bb60-5fd85dd5971a
+dehydroglyasperin d		Glycyrrhiza uralensis	Licorice		GSRS	3107dc4e-1b6c-44f3-99a9-b16437007fc4
+isoglycyrol		Glycyrrhiza uralensis	Licorice		GSRS	e8247a7e-7569-4389-a7a9-66aaf78ba3fa
+licoisoflavone b		Glycyrrhiza uralensis	Licorice		GSRS	3857faaf-c5ac-4b2f-b2a1-766bb080dd17
+licoricesaponin a3		Glycyrrhiza uralensis	Licorice		GSRS	eaf938c0-761f-4e63-bf15-91aaf6b8875e
+uralsaponin c		Glycyrrhiza uralensis	Licorice		GSRS	d4e170ab-8f23-4f20-9b99-08073cdb296f
+uralsaponin f		Glycyrrhiza uralensis	Licorice		GSRS	23b8ee32-1447-4077-a738-afddef70b954
+uralsaponin v		Glycyrrhiza uralensis	Licorice		GSRS	7b552178-5af6-4c9e-b7dc-26b55c7c00b1
+uralsaponin w		Glycyrrhiza uralensis	Licorice		GSRS	661602f1-d5c0-42f7-9e27-ba4b10c9b32b
+uralsaponin x		Glycyrrhiza uralensis	Licorice		GSRS	3a38988a-6523-4735-a717-4a996709716f
+uralsaponin y		Glycyrrhiza uralensis	Licorice		GSRS	c3d4eaa5-86a5-4b2c-8337-bce4be573e52
+paynantheine		Mitragyna speciosa	Kratom		GSRS	68116d28-09a3-4ac2-af81-fe5c533d54b6
+speciociliatin		Mitragyna speciosa	Kratom		GSRS	07fdb708-1f0b-458f-8dbf-3262aeedb25f
+speciogynine		Mitragyna speciosa	Kratom		GSRS	ed258a65-2ec7-4bfa-90fe-6b32bff5bea6
+ginsenan a		Panax ginseng	Panax ginseng		EMA	
+ocotillol		Panax ginseng	Panax ginseng		EMA	
+panaxan a		Panax ginseng	Panax ginseng		EMA	
+pinene	15-25 %	Rosmarinus officinalis	Rosemary		EMA	
+rosmanol		Rosmarinus officinalis	Rosemary		EMA	
+rosin		Sedum roseum	Rhodiola		GSRS	c743a07c-ec60-4683-9db0-44f270106ff4
+rosiridin		Sedum roseum	Rhodiola		GSRS	ea928eb8-52b7-4598-815d-8bac7f1d1335
+isosilibinin a		Silybum marianum	Milk thistle		EMA	
+isosilibinin b		Silybum marianum	Milk thistle		EMA	
+(2-glyceryl)-o-coniferaldehyde		Tanacetum parthenium	Feverfew		EMA	
+9-epipectachol b		Tanacetum parthenium	Feverfew		EMA	
+angelate ester		Tanacetum parthenium	Feverfew		EMA	
+anisofraxidin drimenyl ether		Tanacetum parthenium	Feverfew		EMA	
+chrysanthenyl acetate	<10 mg kg-1	Tanacetum parthenium	Feverfew		EMA	
+costic acid methyl ester		Tanacetum parthenium	Feverfew		EMA	
+epimeric cischrysanthenol		Tanacetum parthenium	Feverfew		EMA	
+hydroxyanhydroverlotorin		Tanacetum parthenium	Feverfew		EMA	
+hydroxyparthenolide		Tanacetum parthenium	Feverfew		EMA	
+trigoneoside ia		Trigonella foenum-graecum	Fenugreek		GSRS	a783c330-4753-4db9-a147-478557cd4c54
+trigoneoside ib		Trigonella foenum-graecum	Fenugreek		GSRS	601837c2-b0b1-4538-81c8-ca1cc74cca92
+trigoneoside iia		Trigonella foenum-graecum	Fenugreek		GSRS	8e9754bb-9ec3-4fc7-94a1-0a48ddcd4697
+coumaroyl		Vaccinium macrocarpon	Cranberry		EMA	
+glucose 3-o-glycosides		Vaccinium macrocarpon	Cranberry		EMA	
+quinic malic		Vaccinium macrocarpon	Cranberry		EMA	
+3,4-epoxyvalerenic acid		Valeriana officinalis	Valerian		EMA	
+8-hydroxypinoresimol		Valeriana officinalis	Valerian		EMA	
+8-methylapigenin		Valeriana officinalis	Valerian		EMA	
+acetoxyvalerenic acid		Valeriana officinalis	Valerian		GSRS	0c40fc40-bb58-43d5-874c-1f7bccdcb230
+hydroxyvalerenic acid		Valeriana officinalis	Valerian		GSRS	c913b898-9da0-40bb-a386-f6c87dcac1dc
+ivhd-valtrate		Valeriana officinalis	Valerian		EMA	
+kessylacetate		Valeriana officinalis	Valerian		EMA	
+linarin		Valeriana officinalis	Valerian		EMA	
+valeranon		Valeriana officinalis	Valerian		EMA	
+beta-bisabolol		Zingiber officinale	Ginger		GSRS	5e6c4cb4-450b-4e8d-aab8-48283c361a6e
+gingerdiol		Zingiber officinale	Ginger		GSRS	9336e960-c9f7-438e-8783-af3c2daea7fa
+zingiberol		Zingiber officinale	Ginger		EMA	b1b2f4f1-59bd-4851-bf3a-472fe2bf7d15
+23-epi-26-deoxyactein		Actaea racemosa	Black cohosh	70243.0	GSRS	ebdf7fb6-e458-4ebb-9728-6148a01e2f44
+23-o-acetylshengmanol-3-o-beta-d-xylopyranoside		Actaea racemosa	Black cohosh	70244.0	GSRS	20fa02ac-b3a8-485b-a0b1-bdde78fb085e
+25-anhydrocimigenol 3-o-alpha-l-arabinoside		Actaea racemosa	Black cohosh	70249.0	GSRS	d15a2fc3-2df2-4cb0-8511-eea08bbd4231
+25-anhydrocimigenol 3-o-beta-d-xyloside		Actaea racemosa	Black cohosh	70250.0	GSRS	e6bc11b5-92d1-4574-9ce6-3c2d86d3ceac
+25-o-acetylcimigenol-3-o-alpha-l-arabinoside		Actaea racemosa	Black cohosh	70248.0	GSRS	c12efe53-a84e-438a-badb-47342124bd02
+26-deoxyactein		Actaea racemosa	Black cohosh	70242.0	GSRS	7596cfc0-db64-40eb-9582-97a0f2ae93bc
+3,4-dihydroxybenzoic acid		Actaea racemosa	Black cohosh	36062.0	GSRS	fd20f60c-c7fe-4c22-aabe-3e7cbb06d513
+actein		Actaea racemosa	Black cohosh	70241.0	GSRS	6515a09d-06f3-4652-8608-ba27c64c2b3c
+caffeic acid		Actaea racemosa	Black cohosh	16433.0	GSRS	b7ea3e0e-8a02-4568-8401-0354a571bd86
+caffeic acid methyl ester		Actaea racemosa	Black cohosh	6856.0	GSRS	3bd9c2c2-628e-47b1-8d10-34e61d60f506
+cimicifugoside h-2		Actaea racemosa	Black cohosh	184035.0	GSRS	a20fdb63-fc3b-46ac-94eb-a5b468fd322a
+cimigenol		Actaea racemosa	Black cohosh	37777.0	GSRS	b3745cf0-292a-43a6-85fa-ef79c2558944
+cimigenol xyloside		Actaea racemosa	Black cohosh	37778.0	GSRS	e905aef7-2152-4ee7-a59d-ab82969c8eae
+cimiracemoside a		Actaea racemosa	Black cohosh	70245.0	GSRS	ceb1c484-daa6-42a0-8ef1-e944011e0512
+cimiracemoside d		Actaea racemosa	Black cohosh	70247.0	GSRS	e6383e05-67f3-479b-beba-b3136fe1401e
+cimiracemoside k		Actaea racemosa	Black cohosh	70251.0	GSRS	71f8a0f7-1b94-4708-8839-d8dc4652fe85
+ferulic acid		Actaea racemosa	Black cohosh	17620.0	GSRS	7a453fa3-0b79-4c17-a2ba-92a9ac3b14ee
+fukiic acid		Actaea racemosa	Black cohosh	166659.0	GSRS	ce3dd874-5790-4c20-863b-0727889db38e
+fukinolic acid		Actaea racemosa	Black cohosh	177596.0	GSRS	93b970d9-bb9f-4262-b95a-5303e3f07c8b
+isoferulic acid		Actaea racemosa	Black cohosh	27794.0	GSRS	7c3a09f7-fde5-4d60-ae02-5e65bfaa209f
+methyl ferulate		Actaea racemosa	Black cohosh	67379.0	GSRS	a26e2808-2691-4789-a85b-86b96093fa3c
+p-coumaric acid		Actaea racemosa	Black cohosh	32374.0	GSRS	aa535213-4c38-454a-a8ee-de2bb18f7014
+petasiphenone		Actaea racemosa	Black cohosh	174449.0	GSRS	121e635b-e79e-4cc0-b89e-838cb06a5af5
+protocatechualdehyde		Actaea racemosa	Black cohosh	50205.0	GSRS	21f76a81-6b0f-401b-9ab6-99f16b4930a6
+beta-escin		Aesculus hippocastanum	Horse-chestnut	2500.0	GSRS	6a64850d-c094-4696-ba06-fe11a4e51bca
+6,7-dihydroxycoumarin		Aesculus hippocastanum	Horse-chestnut	490095.0	EMA	
+aesculin		Aesculus hippocastanum	Horse-chestnut	4853.0	EMA	90bbcc5b-43ef-491b-9abd-92099ec66702
+barringtogenol c		Aesculus hippocastanum	Horse-chestnut	2994.0	EMA	
+fraxetin		Aesculus hippocastanum	Horse-chestnut	5169.0	EMA	
+fraxin		Aesculus hippocastanum	Horse-chestnut	5170.0	EMA	
+kaempferol		Aesculus hippocastanum	Horse-chestnut	28499.0	EMA	
+quercetin		Aesculus hippocastanum	Horse-chestnut	16243.0	EMA	
+scopoletin		Aesculus hippocastanum	Horse-chestnut	17488.0	EMA	
+scopolin		Aesculus hippocastanum	Horse-chestnut	16065.0	EMA	
+allicin		Allium sativum	Garlic	28411.0	EMA	179d3761-e448-4e74-9743-c0ea83fafdce
+alliin	1 mg	Allium sativum	Garlic	2596.0	GSRS	87a6f0de-7c44-4b24-90cd-a8abea570a5d
+allixin		Allium sativum	Garlic	172466.0	EMA	
+apigenin		Allium sativum	Garlic	18388.0	EMA	
+bergamottin		Allium sativum	Garlic	70476.0	EMA	
+chlorogenin		Allium sativum	Garlic	188325.0	EMA	
+diallyl sulfide		Allium sativum	Garlic	4489.0	GSRS	3dee9e39-be0e-4b0e-8e72-80d5ff550b92
+myricetin		Allium sativum	Garlic	18152.0	EMA	
+nobiletin		Allium sativum	Garlic	7602.0	EMA	
+peroxidase		Allium sativum	Garlic	46736.0	EMA	
+quercetin		Allium sativum	Garlic	16243.0	EMA	
+rutin		Allium sativum	Garlic	28527.0	EMA	
+s-allylcysteine		Allium sativum	Garlic	74077.0	GSRS	8c23d72d-14af-4cfc-89d7-2470b3ef95cd
+selenium		Allium sativum	Garlic	27568.0	EMA	
+tangeretin		Allium sativum	Garlic	9400.0	EMA	
+(-)-epicatechin		Camellia sinensis	Green tea	90.0	EMA	261f2b07-471b-45d6-b1fc-28b65defbe21
+(-)-epicatechin-3-o-gallate		Camellia sinensis	Green tea	70255.0	EMA	5be035c0-63da-4bd6-8ffb-e5dafdc3b3b0
+(-)-epigallocatechin		Camellia sinensis	Green tea	42255.0	EMA	53d98e02-cd90-4b89-bf72-e31dc1392811
+(-)-epigallocatechin-3-o-gallate	55-72%	Camellia sinensis	Green tea	4806.0	EMA	60a66f64-7eca-4725-87b6-71bf41829f90
+5-n-ethyl glutamine		Camellia sinensis	Green tea	17394.0	EMA	
+apigenin		Camellia sinensis	Green tea	18388.0	EMA	
+barringtogenol c		Camellia sinensis	Green tea	2994.0	EMA	
+caffeine	2.5 to 4.2%	Camellia sinensis	Green tea	27732.0	EMA	
+chlorogenic acid		Camellia sinensis	Green tea	95271.0	EMA	
+cianidanol		Camellia sinensis	Green tea	15600.0	GSRS	5e3251fe-d591-4ac6-a8ad-679a3fe17e21
+gallic acid		Camellia sinensis	Green tea	30778.0	EMA	
+gallocatechin		Camellia sinensis	Green tea	31018.0	GSRS	515014aa-2dae-464e-9d65-0514f4d6c2f1
+gallocatechin gallate		Camellia sinensis	Green tea	156284.0	GSRS	906485ec-947b-4188-bb00-1cb56fac8b7b
+kaempferol		Camellia sinensis	Green tea	28499.0	EMA	
+luteolin		Camellia sinensis	Green tea	15864.0	EMA	
+myricetin		Camellia sinensis	Green tea	18152.0	EMA	
+proanthocyanidins		Camellia sinensis	Green tea	166895.0	EMA	
+quercetin		Camellia sinensis	Green tea	16243.0	EMA	
+theobromine	0.15-0.2%	Camellia sinensis	Green tea	28946.0	EMA	
+theogallin		Camellia sinensis	Green tea	9522.0	EMA	
+theophylline	0.02-0.04%	Camellia sinensis	Green tea	28177.0	EMA	
+alpha-bergamotene, (e)-(-)-		Cannabis sativa	Cannabis	62756.0	GSRS	ece8f63a-172c-4193-9b86-6ec6b26413e5
+alpha-cadinene, (+)-		Cannabis sativa	Cannabis	80749.0	GSRS	6bc981ce-d884-4c5a-be85-1108c8ba5d95
+alpha-eudesmol		Cannabis sativa	Cannabis	10278.0	GSRS	60ae3dd1-bf62-4fa4-8a1d-66fa06357907
+alpha-farnesene		Cannabis sativa	Cannabis	39236.0	GSRS	10f72b14-96cc-4045-b47e-4ee0e08dd448
+alpha-longipinene		Cannabis sativa	Cannabis	62753.0	GSRS	0eb9e2e4-71b7-4ac3-b862-5b5377a6cf13
+alpha-pinene		Cannabis sativa	Cannabis	36740.0	GSRS	b3c1e5e7-799e-47d3-af96-bd137d94fa9f
+alpha-selinene		Cannabis sativa	Cannabis	59961.0	GSRS	f0075c9b-047d-41d5-883f-4587e0876917
+alpha-terpineol		Cannabis sativa	Cannabis	22469.0	GSRS	4c2f36be-32b7-48dc-8137-e7b81af66374
+alpha-thujene, (+/-)-		Cannabis sativa	Cannabis	50031.0	GSRS	a690d6aa-deaf-4ee6-b9e9-5add03062c57
+beta-caryophyllene oxide		Cannabis sativa	Cannabis	67818.0	GSRS	1ef86fe7-8a48-47a2-9d0a-31ae627bc1e6
+beta-elemene		Cannabis sativa	Cannabis	62855.0	GSRS	a466455b-dab8-4dbd-a452-4f44a021450b
+beta-eudesmol		Cannabis sativa	Cannabis	10417.0	GSRS	ebc48b7f-28d9-441e-9f7e-e863557b2d0c
+beta-farnesene, (6z)-		Cannabis sativa	Cannabis	39242.0	GSRS	da98095d-23da-4b42-946c-943da261b05b
+beta-ocimene, (3e)-		Cannabis sativa	Cannabis	64280.0	GSRS	922f6489-adf1-4436-b128-a473dc18be6b
+beta-ocimene, (3z)-		Cannabis sativa	Cannabis	87574.0	GSRS	6d8457d9-238d-4bc5-9698-343cea84eea2
+beta-phellandrene		Cannabis sativa	Cannabis	48741.0	GSRS	e28dd555-8c13-48a4-962a-3fec36a42184
+beta-pinene		Cannabis sativa	Cannabis	50025.0	GSRS	bd831100-9075-4a12-960e-3cdf24e68fa6
+delta8-tetrahydrocannabinol		Cannabis sativa	Cannabis	183415.0	GSRS	0de08de6-1b04-4422-8cf2-767e497e994b
+delta9-tetrahydrocannabinolic acid		Cannabis sativa	Cannabis	67078.0	GSRS	00c2af2a-4db7-4331-b463-e735ee2651a7
+gamma-bisabolene, (e)-		Cannabis sativa	Cannabis	49239.0	GSRS	1813b92d-b853-43cb-9fd8-6a4748031f99
+gamma-bisabolene, (z)-		Cannabis sativa	Cannabis	49238.0	GSRS	61d1fad4-27ec-4e35-b38a-f754b0c18af2
+3-carene		Cannabis sativa	Cannabis	35661.0	GSRS	9a64f057-6198-4844-9714-510472950996
+apigenin		Cannabis sativa	Cannabis	18388.0	GSRS	3b02122d-0d17-4a96-bb83-6f9cdacac46b
+borneol		Cannabis sativa	Cannabis	28093.0	GSRS	116f1ecd-e9e0-48ee-ba73-3dc1cec64904
+camphene		Cannabis sativa	Cannabis	3830.0	GSRS	f3a92129-b7b6-4f25-9dc4-7311202bb5d9
+cannabichromene		Cannabis sativa	Cannabis	3357.0	GSRS	dbe673de-e7b2-46a7-a00b-a96158b33131
+cannabichromenic acid, (+)-		Cannabis sativa	Cannabis	167557.0	GSRS	08f01d57-7e7a-44b6-95e5-632de7b585c8
+cannabidiol		Cannabis sativa	Cannabis	69478.0	GSRS	bd3f6640-1845-472f-b743-c8d77367576f
+cannabidiolic acid		Cannabis sativa	Cannabis	67136.0	GSRS	692eb414-4274-4017-ac44-9a2fb46cbb97
+cannabidivarin		Cannabis sativa	Cannabis	182159.0	GSRS	c07ef76d-cb84-44bb-9ff3-b1651db7cf0e
+cannabigerolic acid		Cannabis sativa	Cannabis	67081.0	GSRS	f6604a46-59fe-4a3f-ace7-eb53d16e140a
+cannabinol		Cannabis sativa	Cannabis	3360.0	GSRS	79be7453-1d6f-44fe-80c0-efd1c6a09649
+caryophyllene		Cannabis sativa	Cannabis	10357.0	GSRS	3486bcdf-db5d-43fc-9cfa-765cb23ccc83
+dronabinol		Cannabis sativa	Cannabis	66964.0	GSRS	2fe12fb9-7b98-4914-8199-057b26f4f702
+fenchone, (+/-)-		Cannabis sativa	Cannabis	4999.0	GSRS	2266125a-3987-4cda-b319-dabefe16d6fc
+grossamide		Cannabis sativa	Cannabis	190028.0	GSRS	b796a61b-ae1d-4169-8f4d-3d5e0a18df3b
+guaiol		Cannabis sativa	Cannabis	5552.0	GSRS	6cff886c-d03f-4935-9595-6f8e4d141339
+humulene		Cannabis sativa	Cannabis	5768.0	GSRS	e6c8024d-d53d-46eb-b260-bf86208a16d8
+kaempferol		Cannabis sativa	Cannabis	28499.0	GSRS	eee03996-1928-4043-890f-e554b0a15767
+limonene, (+/-)-		Cannabis sativa	Cannabis	15384.0	GSRS	5244285c-2a85-4f42-8001-1f69e7d01143
+linalool, (+/-)-		Cannabis sativa	Cannabis	17580.0	GSRS	853a565e-6ad8-4241-b18a-390a86e3cac4
+linoleic acid		Cannabis sativa	Cannabis	17351.0	GSRS	f8e32d5a-cf0e-473e-ab25-1071fbeb51ca
+linolenic acid		Cannabis sativa	Cannabis	27432.0	GSRS	c012a23f-8d2a-41b8-ac85-f8eba1392242
+luteolin		Cannabis sativa	Cannabis	57545.0	GSRS	17b6d74a-7d98-4b91-b491-072e2df10495
+myrcene		Cannabis sativa	Cannabis	17221.0	GSRS	47cf0f93-8d28-4fb8-acba-a694ddc74220
+n-caffeoyltyramine		Cannabis sativa	Cannabis	193479.0	GSRS	7a287a08-c028-4bf8-894b-2f704a87600f
+oleic acid		Cannabis sativa	Cannabis	16196.0	GSRS	8d009a46-b3f9-4991-af9e-ea7058904455
+orientin		Cannabis sativa	Cannabis	7781.0	GSRS	1017465f-8f6a-49bb-9a9f-063dd0b8c691
+quercetin		Cannabis sativa	Cannabis	16243.0	GSRS	04621855-3c6a-428c-a1cd-544e8f79d1fd
+terpinolene		Cannabis sativa	Cannabis	9457.0	GSRS	73342ba8-d3e3-49c5-b925-644b44353dbb
+vitexin		Cannabis sativa	Cannabis	16954.0	GSRS	e8bb667f-d4ce-4ab0-b225-5ed31c37ac0d
+2-methoxycinnamic acid		Cinnamomum cassia	Cinnamon	136676.0	GSRS	783198e1-3603-4f4a-ad03-8b4faaed3c13
+cinnamaldehyde		Cinnamomum cassia	Cinnamon	142921.0	GSRS	59525a55-7abc-4575-bd0f-7adbee2484a6
+cinnamic acid		Cinnamomum cassia	Cinnamon	35697.0	GSRS	6262adbb-9605-4d3b-985b-a38d3a2eb42f
+cinnamtannin b2		Cinnamomum cassia	Cinnamon	81229.0	GSRS	a43dc3d4-9cbe-46bf-8a1c-544dad548b09
+cinnamyl acetate		Cinnamomum cassia	Cinnamon	31402.0	GSRS	9dda49ec-2f24-4116-98f0-b2246526a6b6
+cinnamyl alcohol		Cinnamomum cassia	Cinnamon	33227.0	GSRS	bfaa6e6f-ec37-4886-be66-0fc5f8912ec5
+coumarin		Cinnamomum cassia	Cinnamon	28794.0	GSRS	c2de4841-35a4-4a8d-81b8-fba6623c3fac
+eugenol		Cinnamomum cassia	Cinnamon	4917.0	GSRS	2b41c9d5-fef6-4b9e-a981-53ce5220f1d6
+methyl eugenol		Cinnamomum cassia	Cinnamon	4918.0	GSRS	9f8b6a98-8b3e-4388-9f96-405027673ec4
+o-methoxycinnamaldehyde, (e)-		Cinnamomum cassia	Cinnamon	180713.0	GSRS	cafb4ff7-53ed-476c-a77c-be410a6d70e4
+salicylaldehyde		Cinnamomum cassia	Cinnamon	16008.0	GSRS	afac4d27-a0f1-49c9-9cff-9cb49bd755a2
+18-cineole	1-2%	Cinnamomum verum	Cinnamon	27961.0	EMA	3116f8b5-9720-4015-992f-4e5ca273626f
+benzaldehyde		Cinnamomum verum	Cinnamon	17169.0	GSRS	f4cca72a-53ed-4bd8-9a0f-b0cb77efef0e
+benzyl benzoate		Cinnamomum verum	Cinnamon	41237.0	GSRS	24d22802-5e07-418c-8892-f9ebf343fb45
+caryophyllene	1-4%	Cinnamomum verum	Cinnamon	10357.0	EMA	3486bcdf-db5d-43fc-9cfa-765cb23ccc83
+cinnamaldehyde	55-76%	Cinnamomum verum	Cinnamon	142921.0	EMA	59525a55-7abc-4575-bd0f-7adbee2484a6
+cinnamic acid		Cinnamomum verum	Cinnamon	27386.0	EMA	6262adbb-9605-4d3b-985b-a38d3a2eb42f
+cinnamtannin b1		Cinnamomum verum	Cinnamon	69304.0	GSRS	e6ef02ac-648b-49c2-9a67-0a330c4b319d
+cinnamtannin b2		Cinnamomum verum	Cinnamon	81229.0	GSRS	a43dc3d4-9cbe-46bf-8a1c-544dad548b09
+cinnamyl acetate		Cinnamomum verum	Cinnamon	31402.0	GSRS	9dda49ec-2f24-4116-98f0-b2246526a6b6
+cinnamyl alcohol		Cinnamomum verum	Cinnamon	33227.0	GSRS	bfaa6e6f-ec37-4886-be66-0fc5f8912ec5
+cinnzeylanine		Cinnamomum verum	Cinnamon	172669.0	EMA	
+cinnzeylanol		Cinnamomum verum	Cinnamon	169400.0	EMA	
+coumarin		Cinnamomum verum	Cinnamon	28794.0	GSRS	c2de4841-35a4-4a8d-81b8-fba6623c3fac
+d-xylose		Cinnamomum verum	Cinnamon	53455.0	EMA	
+eugenol	1-10%	Cinnamomum verum	Cinnamon	4917.0	EMA	2b41c9d5-fef6-4b9e-a981-53ce5220f1d6
+l-arabinose		Cinnamomum verum	Cinnamon	17535.0	EMA	
+linalool	1-3%	Cinnamomum verum	Cinnamon	17580.0	EMA	853a565e-6ad8-4241-b18a-390a86e3cac4
+mannitol		Cinnamomum verum	Cinnamon	16899.0	EMA	
+methyl eugenol		Cinnamomum verum	Cinnamon	4918.0	GSRS	9f8b6a98-8b3e-4388-9f96-405027673ec4
+o-cymene		Cinnamomum verum	Cinnamon	89263.0	GSRS	28970126-3cfc-48d8-8424-33323f63f0fe
+o-methoxycinnamaldehyde, (e)-		Cinnamomum verum	Cinnamon	180713.0	GSRS	cafb4ff7-53ed-476c-a77c-be410a6d70e4
+p-cymene		Cinnamomum verum	Cinnamon	28768.0	GSRS	841ec61c-b647-4a6a-aab3-b02d331f4e8d
+phellandrene		Cinnamomum verum	Cinnamon	50034.0	GSRS	0d1434a5-79ac-4257-a3a6-d98774a3db12
+pinene		Cinnamomum verum	Cinnamon	17187.0	GSRS	aaf1670e-de87-499a-84ca-6fe1b3f6ea13
+safrole	up to 2%	Cinnamomum verum	Cinnamon	8994.0	EMA	
+(-)-epicatechin		Crataegus laevigata	Hawthorn	90.0	EMA	
+(+)-catechin		Crataegus laevigata	Hawthorn	15600.0	EMA	
+caffeic acid		Crataegus laevigata	Hawthorn	36281.0	EMA	
+chlorogenic acid		Crataegus laevigata	Hawthorn	95271.0	EMA	
+crataegolic acid		Crataegus laevigata	Hawthorn	66682.0	EMA	
+ethylamine		Crataegus laevigata	Hawthorn	15862.0	EMA	
+flavan		Crataegus laevigata	Hawthorn	38691.0	EMA	
+hyperoside		Crataegus laevigata	Hawthorn	67486.0	EMA	
+isovitexin		Crataegus laevigata	Hawthorn	18330.0	EMA	
+oleanic acid		Crataegus laevigata	Hawthorn	37659.0	EMA	
+phenethylamine		Crataegus laevigata	Hawthorn	18397.0	EMA	
+procyanidins		Crataegus laevigata	Hawthorn	166895.0	EMA	
+quercetin		Crataegus laevigata	Hawthorn	16243.0	EMA	
+rhamnoside		Crataegus laevigata	Hawthorn	26547.0	EMA	
+vitexin		Crataegus laevigata	Hawthorn	16954.0	EMA	
+(+)-beta-turmerone		Curcuma longa	Turmeric	81132.0	GSRS	1dcc7740-01b9-4105-8482-556bdd286b6b
+bis-desmethoxycurcumin		Curcuma longa	Turmeric	71045.0	EMA	
+borneol	0.50%	Curcuma longa	Turmeric	28093.0	EMA	
+cineol	1%	Curcuma longa	Turmeric	27961.0	EMA	
+curcumene		Curcuma longa	Turmeric	62757.0	EMA	
+curcumin	3-5%	Curcuma longa	Turmeric	3962.0	EMA	
+phellandrene	1%	Curcuma longa	Turmeric	50035.0	EMA	
+sabinene	0.60%	Curcuma longa	Turmeric	50027.0	EMA	
+zingiberene	25%	Curcuma longa	Turmeric	10115.0	EMA	
+2-o-feruloyl-tartaric acid		Echinacea purpurea	Echinacea	76120.0	EMA	
+arabinose	64-84%	Echinacea purpurea	Echinacea	17535.0	EMA	
+borneol		Echinacea purpurea	Echinacea	28093.0	EMA	
+bornyl acetate		Echinacea purpurea	Echinacea	3151.0	EMA	
+caftaric acid	0.14 mg/g	Echinacea purpurea	Echinacea	174975.0	EMA	
+camphene		Echinacea purpurea	Echinacea	3830.0	EMA	
+caryophyllene		Echinacea purpurea	Echinacea	10357.0	EMA	
+caryophyllene epoxide		Echinacea purpurea	Echinacea	156179.0	EMA	
+caryophyllene oxide		Echinacea purpurea	Echinacea	67818.0	EMA	
+chlorogenic		Echinacea purpurea	Echinacea	95271.0	EMA	
+cichoric acid	0.13 mg/g	Echinacea purpurea	Echinacea	3594.0	EMA	
+dimethyl sulphide		Echinacea purpurea	Echinacea	17437.0	EMA	
+echinacoside		Echinacea purpurea	Echinacea	4745.0	EMA	
+galactose	2-5%	Echinacea purpurea	Echinacea	4139.0	EMA	
+germacrene d		Echinacea purpurea	Echinacea	49044.0	EMA	
+humulene		Echinacea purpurea	Echinacea	5768.0	EMA	
+limonene		Echinacea purpurea	Echinacea	15384.0	EMA	
+phellandrene		Echinacea purpurea	Echinacea	50035.0	EMA	
+tussilagine		Echinacea purpurea	Echinacea	9782.0	EMA	
+verbascoside		Echinacea purpurea	Echinacea	132853.0	EMA	
+xyloglucan		Echinacea purpurea	Echinacea	18233.0	EMA	
+astragalin		Ginkgo biloba	Ginkgo	30200.0	GSRS	7f02a0cd-1c03-405e-bf29-7843366a6dfd
+bilobalide	2.6-3.2%	Ginkgo biloba	Ginkgo	3103.0	EMA	0ae04cae-b0a8-43e8-aa9d-d355043e09e9
+ginkgolic acid		Ginkgo biloba	Ginkgo	5354.0	EMA	
+ginkgolide a		Ginkgo biloba	Ginkgo	5355.0	GSRS	de2175e9-f6d7-4006-a3ef-dc96b78308a4
+ginkgolide b		Ginkgo biloba	Ginkgo	5356.0	GSRS	2fa49d58-e945-46f9-9680-d349df62ce7f
+ginkgolide c		Ginkgo biloba	Ginkgo	5357.0	GSRS	15c0bc4a-3f2c-40b6-a070-a0dec3bf6221
+ginkgolide j		Ginkgo biloba	Ginkgo	5358.0	GSRS	17a936e2-c8d6-4c46-88a8-06f1e7088006
+isoquercetin		Ginkgo biloba	Ginkgo	28299.0	GSRS	8fa98732-4fb2-4942-bd0e-048e6190cbfe
+isorhamnetin		Ginkgo biloba	Ginkgo	6052.0	EMA	97dcf9f6-2f41-4bf2-b971-493979403995
+isorhamnetin 3-o-glucoside		Ginkgo biloba	Ginkgo	75750.0	GSRS	7423c1b3-b856-4d92-9670-cd91db41df59
+kaempferol		Ginkgo biloba	Ginkgo	28499.0	EMA	
+kaempferol 7-o-glucoside		Ginkgo biloba	Ginkgo	75790.0	GSRS	c237103f-8c8f-4200-a96a-a972307ed87b
+myricetin	0.2% to 1.4%	Ginkgo biloba	Ginkgo	18152.0	EMA	
+narcissin		Ginkgo biloba	Ginkgo	145096.0	GSRS	959c0b33-18db-4bf0-a4d3-328b54711088
+quercetin		Ginkgo biloba	Ginkgo	16243.0	EMA	04621855-3c6a-428c-a1cd-544e8f79d1fd
+quercitrin		Ginkgo biloba	Ginkgo	17558.0	GSRS	17d652c7-5b9a-4026-9793-a8eb4f2e250a
+rutin		Ginkgo biloba	Ginkgo	28527.0	GSRS	bd8756e2-79dc-44b4-8fb4-05d34d6540d8
+arachidic acid	maximum 1.0%	Glycine max	Soybean	28822.0	EMA	
+behenic acid	maximum 1.0%	Glycine max	Soybean	28941.0	EMA	
+campesterol	19-23%	Glycine max	Soybean	28623.0	EMA	
+daidzein		Glycine max	Soybean	28197.0	EMA	
+daidzin		Glycine max	Soybean	42202.0	EMA	
+eicosenoic acid	maximum 1.0%	Glycine max	Soybean	32425.0	EMA	
+genistein		Glycine max	Soybean	28088.0	EMA	
+glycitein		Glycine max	Soybean	34778.0	EMA	
+glycitin		Glycine max	Soybean	80373.0	EMA	
+lecithin	76%	Glycine max	Soybean	61955.0	EMA	
+linoleic	48-58%	Glycine max	Soybean	137735.0	EMA	
+linolenic	5-11%	Glycine max	Soybean	27432.0	EMA	
+malonyldaidzin		Glycine max	Soybean	80371.0	EMA	
+malonylgenistin		Glycine max	Soybean	80372.0	EMA	
+malonylglycitin		Glycine max	Soybean	80374.0	EMA	
+myristic acid	maximum 0.2%	Glycine max	Soybean	28875.0	EMA	
+oleic	17-30%	Glycine max	Soybean	16196.0	EMA	
+palmitic	9-13%	Glycine max	Soybean	15756.0	EMA	
+palmitoleic acid	maximum 0.3%	Glycine max	Soybean	28716.0	EMA	
+phosphatidylcholine		Glycine max	Soybean	167585.0	EMA	
+phosphatidylethanolamine		Glycine max	Soybean	16038.0	EMA	
+phosphatidylinositol		Glycine max	Soybean	28874.0	EMA	
+saponin		Glycine max	Soybean	26605.0	EMA	
+sitosterol	47-59%	Glycine max	Soybean	176889.0	EMA	
+soyacerebroside i		Glycine max	Soybean	189690.0	GSRS	16266189-a73b-4b5b-8622-efdb732ae239
+3-hydroxyglabrol		Glycyrrhiza glabra	Licorice	191827.0	GSRS	bd0152d0-5375-41e7-851e-c11fe3e5880e
+7-methoxycoumarin		Glycyrrhiza glabra	Licorice	28184.0	GSRS	eaa5dfdd-825c-4493-8388-5284cfd2f845
+aglycone		Glycyrrhiza glabra	Licorice	166892.0	EMA	
+enoxolone		Glycyrrhiza glabra	Licorice	30853.0	GSRS	e20e0a8b-b4ed-438d-a116-b83fddc48dee
+formononetin		Glycyrrhiza glabra	Licorice	18088.0	EMA	29849ca8-460e-4460-aeb6-67674fb101d2
+glabrene		Glycyrrhiza glabra	Licorice	175112.0	GSRS	0fcc685b-d557-464f-a243-92ebade9f466
+glabridin		Glycyrrhiza glabra	Licorice	5369.0	EMA	4d7628d2-22a4-47ff-b8f3-adbda1875270
+glabrocoumarone a		Glycyrrhiza glabra	Licorice	174941.0	EMA	f627cc5d-966c-4204-82ad-8471745390a9
+glabrocoumarone b		Glycyrrhiza glabra	Licorice	85109.0	EMA	e0c43857-137e-41f7-856b-ef788ef789d6
+glabrol		Glycyrrhiza glabra	Licorice	177851.0	GSRS	53096ecb-9db4-4a47-9cec-9e883267934a
+glabrolide		Glycyrrhiza glabra	Licorice	183596.0	EMA	71996d50-c9df-4d10-8676-83d6c2db2384
+glabrone		Glycyrrhiza glabra	Licorice	175272.0	EMA	bfd670b3-079e-47dd-9155-f099b687eaae
+glychionide b		Glycyrrhiza glabra	Licorice	61282.0	EMA	134be7b2-30be-4d09-ad7f-15528f0d8514
+glycocoumarin		Glycyrrhiza glabra	Licorice	69087.0	EMA	
+glycyrin		Glycyrrhiza glabra	Licorice	69086.0	EMA	50dfeea2-d8d7-4ed1-a7f5-983fa22105a7
+glycyrrhizic acid		Glycyrrhiza glabra	Licorice	15939.0	EMA	
+glycyrrhizinate dipotassium		Glycyrrhiza glabra	Licorice	79402.0	GSRS	b8795445-e125-4a7b-ab38-8820712b4b94
+glyzarin		Glycyrrhiza glabra	Licorice	174784.0	EMA	23c22b8f-4915-4c08-98cd-818c79b67bef
+guaiacol		Glycyrrhiza glabra	Licorice	28591.0	EMA	
+hemileiocarpin		Glycyrrhiza glabra	Licorice	180252.0	GSRS	afdf8914-36c0-43f9-b858-e37e83dd236b
+herniarin		Glycyrrhiza glabra	Licorice	5679.0	EMA	
+hispaglabridin a		Glycyrrhiza glabra	Licorice	5730.0	EMA	8278825e-787f-426e-b526-c15b30d2a385
+isoliquiritigenin		Glycyrrhiza glabra	Licorice	94010.0	EMA	
+isoliquiritin		Glycyrrhiza glabra	Licorice	80839.0	GSRS	c5473a04-cd84-4b0f-99b6-b805a4a264df
+jaranol		Glycyrrhiza glabra	Licorice	176665.0	GSRS	322629d2-3403-4c2a-a8c9-1f62f21bf9b9
+licoflavonol		Glycyrrhiza glabra	Licorice	175548.0	EMA	b0885d35-8c26-49e9-8edb-3a6304065f4b
+licofuranocoumarin		Glycyrrhiza glabra	Licorice	175895.0	EMA	3934df67-f849-4bc6-a862-4d88ab8f7bac
+licoisoflavone a		Glycyrrhiza glabra	Licorice	28620.0	GSRS	315984de-8b01-4753-abac-f725e14a200e
+licopyranocoumarin		Glycyrrhiza glabra	Licorice	175896.0	GSRS	f59890c9-c1e7-42c2-b2f9-ce6ca98daf24
+liqcoumarin		Glycyrrhiza glabra	Licorice	174104.0	EMA	eff2217d-ba0f-46f7-88aa-6fdd497c1fd1
+liquiritic acid		Glycyrrhiza glabra	Licorice	191835.0	EMA	
+liquiritigenin		Glycyrrhiza glabra	Licorice	28777.0	EMA	247f3c08-65cb-4635-b6f5-f290164b4bd8
+liquiritin		Glycyrrhiza glabra	Licorice	80845.0	EMA	b2e9e6fd-39eb-4d81-94b0-844d6fd0d260
+neoisoliquiritin		Glycyrrhiza glabra	Licorice	191686.0	EMA	cf487384-7d6c-40df-ae0d-d9e1bf746616
+neoliquiritin		Glycyrrhiza glabra	Licorice	191812.0	EMA	1524dc9c-106d-46b3-96f8-c26f47bf27b3
+paratocarpin b		Glycyrrhiza glabra	Licorice	187700.0	GSRS	e1573874-1e99-4820-b43f-ea668898b7b2
+phaseollinisoflavan		Glycyrrhiza glabra	Licorice	109.0	GSRS	965c79e2-d389-46c2-bf80-6d146a25930f
+potassium		Glycyrrhiza glabra	Licorice	26216.0	EMA	
+shinpterocarpin		Glycyrrhiza glabra	Licorice	175114.0	EMA	6dadcd56-26f7-419e-acbf-642e9c263194
+sitosterol		Glycyrrhiza glabra	Licorice	176889.0	EMA	
+trihydroxychalcone		Glycyrrhiza glabra	Licorice	77948.0	GSRS	fce680da-54e0-4ded-a6c5-8485a8b1f81b
+umbelliferone		Glycyrrhiza glabra	Licorice	27510.0	EMA	961e8e9b-d8dd-447d-bb7d-004d22ffc896
+4',7-dihydroxyflavone		Glycyrrhiza inflata	Licorice	29503.0	GSRS	43a42863-c959-457c-bdc0-3bfe458bb305
+glycyrrhizin		Glycyrrhiza inflata	Licorice	29807.0	GSRS	0277fa8a-d217-496f-8fdf-836c7262c4c5
+licochalcone a		Glycyrrhiza inflata	Licorice	174541.0	GSRS	54e4f7d1-5a32-41c4-8b9a-e9e651891acd
+licochalcone b		Glycyrrhiza inflata	Licorice	174733.0	GSRS	5885112c-92d1-4102-afe6-31759bdadb83
+3-o-methylglycyrol		Glycyrrhiza uralensis	Licorice	191717.0	GSRS	00446d47-5c14-4a11-8c1f-98167bcab5ad
+4',7-dihydroxyflavone		Glycyrrhiza uralensis	Licorice	29503.0	GSRS	43a42863-c959-457c-bdc0-3bfe458bb305
+allolicoisoflavone a		Glycyrrhiza uralensis	Licorice	69085.0	GSRS	7bd9233d-4508-4c68-9737-27dabbe44223
+formononetin		Glycyrrhiza uralensis	Licorice	18088.0	GSRS	29849ca8-460e-4460-aeb6-67674fb101d2
+glyasperin f		Glycyrrhiza uralensis	Licorice	69092.0	GSRS	3ad0f525-9411-4ea0-8b27-7345607aa0de
+glycyrin		Glycyrrhiza uralensis	Licorice	69086.0	GSRS	50dfeea2-d8d7-4ed1-a7f5-983fa22105a7
+glycyrrhizin		Glycyrrhiza uralensis	Licorice	29807.0	GSRS	0277fa8a-d217-496f-8fdf-836c7262c4c5
+isotrifoliol		Glycyrrhiza uralensis	Licorice	174837.0	GSRS	4db21005-20a2-45e9-b1bf-91325269257e
+jaranol		Glycyrrhiza uralensis	Licorice	176665.0	GSRS	322629d2-3403-4c2a-a8c9-1f62f21bf9b9
+kanzonol p		Glycyrrhiza uralensis	Licorice	69097.0	GSRS	fe99f119-ce1f-4a0f-ae2f-3aad3ac3dbcc
+licoricesaponin e2		Glycyrrhiza uralensis	Licorice	192216.0	GSRS	7d73c714-383b-4f5e-9cb1-22fd45dc98ca
+licoricesaponin g2		Glycyrrhiza uralensis	Licorice	184066.0	GSRS	0b9b929f-9789-47fd-80ed-9490ea0ef50c
+licoricidin		Glycyrrhiza uralensis	Licorice	69082.0	GSRS	97fab6f7-e451-40cc-9ec0-f25471fb953b
+licoricone		Glycyrrhiza uralensis	Licorice	69094.0	GSRS	91548308-7b7e-4ed9-b124-ad910e79702c
+liquiritigenin		Glycyrrhiza uralensis	Licorice	136678.0	GSRS	247f3c08-65cb-4635-b6f5-f290164b4bd8
+liquiritin		Glycyrrhiza uralensis	Licorice	80845.0	GSRS	b2e9e6fd-39eb-4d81-94b0-844d6fd0d260
+liquiritin apioside		Glycyrrhiza uralensis	Licorice	191629.0	GSRS	5d7e86fa-ad60-49f5-89eb-7e1c19385ecc
+medicarpin		Glycyrrhiza uralensis	Licorice	16114.0	GSRS	91492220-59a2-4d10-ab28-0af3364cec7a
+semilicoisoflavone b		Glycyrrhiza uralensis	Licorice	69093.0	GSRS	cfd3e858-32c1-435c-a2ac-58ac91af0c1a
+trihydroxychalcone		Glycyrrhiza uralensis	Licorice	77948.0	GSRS	fce680da-54e0-4ded-a6c5-8485a8b1f81b
+vestitol, (-)-		Glycyrrhiza uralensis	Licorice	16786.0	GSRS	6b0f699d-6996-404f-8c17-ed3194f01637
+berberine		Hydrastis canadensis	Goldenseal	16118.0	GSRS	62b42ecb-2f8d-4fd7-8f2b-7e71df857ff3
+hydrastine		Hydrastis canadensis	Goldenseal	69919.0	GSRS	1aa019d7-ce95-407b-882d-fc1285b0ac88
+secoisolariciresinol diglucoside		Linum usitatissimum	Flax seed	172801.0	GSRS	665b56a5-7ca8-4924-a8f1-f115b712ebad
+7-hydroxymitragynine		Mitragyna speciosa	Kratom	180536.0	GSRS	c50748a1-8231-42ad-a263-6abc6bc49005
+mitragynine		Mitragyna speciosa	Kratom	6956.0	GSRS	22e5b710-9260-4678-9196-ba75d4c38520
+mitraphylline		Mitragyna speciosa	Kratom	6957.0	GSRS	1143708e-de66-424e-95ae-7d0ed6bf00e8
+carvacrol		Origanum vulgare	Oregano	3440.0	GSRS	4f7b4d9b-f400-426e-bff1-682c5fa2cbda
+citral		Panax ginseng	Panax ginseng	137934.0	EMA	
+eremophilene		Panax ginseng	Panax ginseng	142091.0	EMA	
+falcarinol		Panax ginseng	Panax ginseng	66722.0	EMA	
+ginsenoside		Panax ginseng	Panax ginseng	67991.0	EMA	
+ginsenoside b2		Panax ginseng	Panax ginseng	77148.0	GSRS	52b41d70-d2b0-4361-8c38-8a3ff96eddce
+ginsenoside c		Panax ginseng	Panax ginseng	77151.0	GSRS	9e9c0933-375d-45f5-8031-068425dbe65c
+ginsenoside rb1		Panax ginseng	Panax ginseng	67989.0	GSRS	b23b273e-209f-40cc-9d8d-fac6b32f251b
+ginsenoside rc		Panax ginseng	Panax ginseng	77154.0	GSRS	b6de0ad4-c962-4e94-9429-60b1baa9601c
+ginsenoside rf		Panax ginseng	Panax ginseng	67986.0	GSRS	1d03f0c6-dc21-4ccf-8bce-a3e13cfabc6e
+ginsenoside rg1		Panax ginseng	Panax ginseng	67987.0	GSRS	7a490fa0-2914-4f10-863a-efb402b1ed02
+ginsenoside ro		Panax ginseng	Panax ginseng	67981.0	GSRS	2df29299-ecd8-48e2-bdba-bceaa4862f97
+limonene		Panax ginseng	Panax ginseng	15384.0	EMA	
+oleanane		Panax ginseng	Panax ginseng	36481.0	EMA	
+oleanolic acid		Panax ginseng	Panax ginseng	37659.0	EMA	
+panaxydol		Panax ginseng	Panax ginseng	66723.0	EMA	
+panaxytriol		Panax ginseng	Panax ginseng	80732.0	EMA	
+caffeine	1.1-5.8%	Paullinia cupana	Guarana	27732.0	EMA	f9c12f2f-ad99-4f1c-b96b-ac7ec1dc08df
+carvacrol		Paullinia cupana	Guarana	3440.0	EMA	
+catechin	1.3-6%	Paullinia cupana	Guarana	15600.0	EMA	
+epicatechin	1.2-3.8%	Paullinia cupana	Guarana	90.0	EMA	
+theobromine	0.01-0.17%	Paullinia cupana	Guarana	28946.0	EMA	f5c04c2d-acb2-4ae1-8975-75ca33f0ab91
+theophylline	0.006-0.25%	Paullinia cupana	Guarana	28177.0	EMA	76c4b680-31ca-4f46-95c2-5ba927dc573a
+borneol		Piper nigrum	Black pepper	28093.0	GSRS	116f1ecd-e9e0-48ee-ba73-3dc1cec64904
+coumaperine		Piper nigrum	Black pepper	169029.0	GSRS	245b1df0-6a01-4f0e-b778-d648f4803270
+piperine		Piper nigrum	Black pepper	28821.0	GSRS	ab63b1fb-265f-4e55-8a4d-d9a9dfefb1c7
+piperonal		Piper nigrum	Black pepper	8240.0	GSRS	0eac4c6c-321b-44eb-8130-097ffc5141a6
+piperyline		Piper nigrum	Black pepper	9691.0	GSRS	57f945c8-2e2d-442a-84ef-fe99a083ce3c
+1,8-cineole		Rosmarinus officinalis	Rosemary	27961.0	EMA	
+apigenin		Rosmarinus officinalis	Rosemary	18388.0	EMA	
+betulin		Rosmarinus officinalis	Rosemary	3086.0	EMA	
+betulinic acid		Rosmarinus officinalis	Rosemary	3087.0	EMA	
+borneol	1-6 %	Rosmarinus officinalis	Rosemary	28093.0	EMA	
+bornyl acetate	1-5 %	Rosmarinus officinalis	Rosemary	3151.0	EMA	
+caffeic acid		Rosmarinus officinalis	Rosemary	36281.0	EMA	
+camphene	5-10 %	Rosmarinus officinalis	Rosemary	3830.0	EMA	
+camphor	10-25 %	Rosmarinus officinalis	Rosemary	36773.0	EMA	
+carnosic acid		Rosmarinus officinalis	Rosemary	65585.0	EMA	
+carnosol		Rosmarinus officinalis	Rosemary	3429.0	EMA	
+caryophyllene		Rosmarinus officinalis	Rosemary	10357.0	EMA	
+cirsimaritin		Rosmarinus officinalis	Rosemary	81337.0	EMA	
+diosmin		Rosmarinus officinalis	Rosemary	4631.0	EMA	
+hesperidin		Rosmarinus officinalis	Rosemary	28775.0	EMA	
+limonene		Rosmarinus officinalis	Rosemary	15384.0	EMA	
+luteolin 3'-o-beta-d-glucuronide		Rosmarinus officinalis	Rosemary	75726.0	EMA	
+methyl carnosate		Rosmarinus officinalis	Rosemary	138943.0	EMA	
+myrcene		Rosmarinus officinalis	Rosemary	17221.0	EMA	
+oleanolic acid		Rosmarinus officinalis	Rosemary	37659.0	EMA	
+pinene	15-25 %	Rosmarinus officinalis	Rosemary	17187.0	EMA	
+rosmadial		Rosmarinus officinalis	Rosemary	174644.0	EMA	
+rosmarinic acid		Rosmarinus officinalis	Rosemary	92370.0	EMA	
+rosmariquinone		Rosmarinus officinalis	Rosemary	34851.0	EMA	
+scutellarein		Rosmarinus officinalis	Rosemary	9062.0	EMA	
+terpineol	12-24 %	Rosmarinus officinalis	Rosemary	22469.0	EMA	
+thymol		Rosmarinus officinalis	Rosemary	27607.0	EMA	
+ursolic acid		Rosmarinus officinalis	Rosemary	9908.0	EMA	
+carnosic acid		Salvia rosmarinus	Rosemary	65585.0	GSRS	24b455e8-60fd-41f7-a212-e10ec884c62b
+luteolin 3'-glucoside		Salvia rosmarinus	Rosemary	176107.0	GSRS	418c7d7c-0db8-4168-ad5f-bd4f5efeb2b8
+luteolin 3'-o-glucuronide		Salvia rosmarinus	Rosemary	75726.0	GSRS	662295ff-8203-4dd3-98e3-16a89dc4bf95
+rosmarinic acid		Salvia rosmarinus	Rosemary	50371.0	GSRS	e303514a-e46e-40fd-b35e-a2a40aae2090
+rosarin		Sedum roseum	Rhodiola	137499.0	GSRS	42089a50-65d2-4ade-9fb3-0ed2903f4937
+rosavin		Sedum roseum	Rhodiola	139523.0	GSRS	26184d9e-a73a-48db-9bc4-adaa6cafea8f
+salidroside		Sedum roseum	Rhodiola	9009.0	GSRS	08e12a1f-54e5-4dd3-9ed0-c68ed68d34d5
+tyrosol		Sedum roseum	Rhodiola	1879.0	GSRS	61f87cbb-30a0-4c70-891b-3a98bb02c1b9
+beta-sitosterol		Serenoa repens	Scrub-palmetto	27693.0	GSRS	81072a55-5bfd-4738-ab96-65203ada607d
+1-hexacosanol		Serenoa repens	Scrub-palmetto	28415.0	GSRS	e647d0cb-5a9c-4f44-acaa-9bc1429d9eae
+1-octacosanol		Serenoa repens	Scrub-palmetto	28243.0	GSRS	ca240cf3-6620-43fc-a10f-2211c856b200
+1-tetracosanol		Serenoa repens	Scrub-palmetto	77413.0	GSRS	30a931b8-028e-430e-9036-905d28d16935
+1-triacontanol		Serenoa repens	Scrub-palmetto	28409.0	GSRS	6a05634a-68d6-496f-a54d-93f6f6fa8320
+campesterol		Serenoa repens	Scrub-palmetto	28623.0	GSRS	18e9f1c1-5519-4c9b-a844-e03764aa0ad4
+capric acid		Serenoa repens	Scrub-palmetto	44499.0	GSRS	135c07ba-d332-4820-8895-ff28dfa13135
+caproic acid		Serenoa repens	Scrub-palmetto	30776.0	GSRS	a21ecc7d-b930-4735-8f36-5b344cf5c8f3
+caprylic acid		Serenoa repens	Scrub-palmetto	28837.0	GSRS	7180aff9-4e84-47ff-822c-26dae136e1a2
+glyceryl 1-laurate		Serenoa repens	Scrub-palmetto	75539.0	GSRS	bad167fe-a7c3-4314-b429-94c53b3e0671
+lauric acid		Serenoa repens	Scrub-palmetto	18262.0	GSRS	dfcabed9-4076-4925-9f96-026da0d9cc45
+linoleic acid		Serenoa repens	Scrub-palmetto	17351.0	GSRS	f8e32d5a-cf0e-473e-ab25-1071fbeb51ca
+linolenic acid		Serenoa repens	Scrub-palmetto	27432.0	GSRS	c012a23f-8d2a-41b8-ac85-f8eba1392242
+myristic acid		Serenoa repens	Scrub-palmetto	30807.0	GSRS	0c479f96-9bc1-45a8-96f8-350e0bd61c53
+oleic acid		Serenoa repens	Scrub-palmetto	16196.0	GSRS	8d009a46-b3f9-4991-af9e-ea7058904455
+palmitic acid		Serenoa repens	Scrub-palmetto	15756.0	GSRS	3fce2c72-3383-4511-9bc6-fcc646d0462f
+palmitoleic acid		Serenoa repens	Scrub-palmetto	28716.0	GSRS	80d280c7-86b8-46be-983c-9115dbd217bd
+stearic acid		Serenoa repens	Scrub-palmetto	25629.0	GSRS	afae0b1a-7fa7-42cf-8d91-9bc40afcc517
+stigmastanol		Serenoa repens	Scrub-palmetto	89400.0	GSRS	5da461d5-1a51-4fca-9552-8f64716b56f5
+stigmasterol		Serenoa repens	Scrub-palmetto	28824.0	GSRS	4a7bc702-317b-4f94-a3ce-e2b82fbff63c
+5,7-dihydroxychromone		Silybum marianum	Milk thistle	2007.0	EMA	
+apigenin		Silybum marianum	Milk thistle	18388.0	EMA	
+chrysoeriol		Silybum marianum	Milk thistle	16514.0	EMA	
+dehydrodiconiferyl alcohol		Silybum marianum	Milk thistle	91184.0	EMA	
+dihydrokaempferol		Silybum marianum	Milk thistle	15401.0	EMA	
+eriodictyol		Silybum marianum	Milk thistle	28412.0	EMA	
+isosilybin a		Silybum marianum	Milk thistle	80744.0	GSRS	99a50f9b-257b-4dde-a0a6-90561a9cdc2c
+kaempferol		Silybum marianum	Milk thistle	28499.0	EMA	
+palmitic	8-12%	Silybum marianum	Milk thistle	15756.0	EMA	
+quercetin		Silybum marianum	Milk thistle	16243.0	EMA	
+silibinin		Silybum marianum	Milk thistle	9144.0	EMA	
+silicristin		Silybum marianum	Milk thistle	9143.0	EMA	
+silidianin		Silybum marianum	Milk thistle	178184.0	EMA	
+silymarin		Silybum marianum	Milk thistle	125451.0	EMA	
+sitosterol		Silybum marianum	Milk thistle	176889.0	EMA	
+taxifolin		Silybum marianum	Milk thistle	17948.0	EMA	4b0fd5dc-de2a-4a0e-b006-ca475fc986db
+angelic		Tanacetum parthenium	Feverfew	36431.0	EMA	
+artemorin		Tanacetum parthenium	Feverfew	2853.0	EMA	
+bicyclogermacrene		Tanacetum parthenium	Feverfew	63709.0	EMA	
+bornyl acetate		Tanacetum parthenium	Feverfew	3151.0	EMA	
+camphor		Tanacetum parthenium	Feverfew	36773.0	EMA	
+costunolide		Tanacetum parthenium	Feverfew	3900.0	EMA	
+farnesene		Tanacetum parthenium	Feverfew	39237.0	EMA	
+germacrene d		Tanacetum parthenium	Feverfew	49044.0	EMA	
+hydroxycostunolide		Tanacetum parthenium	Feverfew	144560.0	EMA	
+isofraxidin		Tanacetum parthenium	Feverfew	81121.0	EMA	
+isomeric cis-verbenol		Tanacetum parthenium	Feverfew	167399.0	EMA	
+melatonin		Tanacetum parthenium	Feverfew	16796.0	EMA	
+parthenolide		Tanacetum parthenium	Feverfew	7939.0	GSRS	a031e532-e1bc-42dc-bb30-84692f721f8b
+reynosin		Tanacetum parthenium	Feverfew	540787.0	EMA	
+apigenin		Trigonella foenum-graecum	Fenugreek	18388.0	GSRS	3b02122d-0d17-4a96-bb83-6f9cdacac46b
+arginine		Trigonella foenum-graecum	Fenugreek	16467.0	GSRS	24d940bc-1e16-44c1-841a-40740861e06f
+carpaine		Trigonella foenum-graecum	Fenugreek	3433.0	GSRS	e3b9da4e-a5ae-4b69-bf6b-a72ea48be7ab
+diosgenin		Trigonella foenum-graecum	Fenugreek	4629.0	GSRS	729136be-56cd-445c-ad97-a0a984cbbbd0
+gentianine		Trigonella foenum-graecum	Fenugreek	28981.0	GSRS	47a193ad-feff-4d98-af79-4dcf2d36c561
+histidine		Trigonella foenum-graecum	Fenugreek	29979.0	GSRS	66b10137-7009-4209-9e89-980f4753cd6c
+hydroxyisoleucine		Trigonella foenum-graecum	Fenugreek	78247.0	GSRS	32680138-083d-4106-b8d1-c97caf0a2489
+isovitexin		Trigonella foenum-graecum	Fenugreek	18330.0	GSRS	66099f17-c698-44f4-bc17-cbee4215e9d3
+luteolin		Trigonella foenum-graecum	Fenugreek	57545.0	GSRS	17b6d74a-7d98-4b91-b491-072e2df10495
+lysine, dl-		Trigonella foenum-graecum	Fenugreek	25094.0	GSRS	f570c972-53f7-45c9-9eb8-5ed7e613c715
+orientin		Trigonella foenum-graecum	Fenugreek	7781.0	GSRS	1017465f-8f6a-49bb-9a9f-063dd0b8c691
+protodioscin		Trigonella foenum-graecum	Fenugreek	8588.0	GSRS	1c5972df-4996-4dc0-86ca-9616effbad95
+quercetin		Trigonella foenum-graecum	Fenugreek	16243.0	GSRS	04621855-3c6a-428c-a1cd-544e8f79d1fd
+trigonelline		Trigonella foenum-graecum	Fenugreek	18123.0	GSRS	3904f242-be3a-4576-944d-64d98eff615a
+vitexin		Trigonella foenum-graecum	Fenugreek	16954.0	GSRS	e8bb667f-d4ce-4ab0-b225-5ed31c37ac0d
+arabinose		Vaccinium macrocarpon	Cranberry	17535.0	EMA	
+catechin		Vaccinium macrocarpon	Cranberry	15600.0	EMA	
+cellulose		Vaccinium macrocarpon	Cranberry	156274.0	EMA	
+citric acid		Vaccinium macrocarpon	Cranberry	30769.0	EMA	
+cyanidin		Vaccinium macrocarpon	Cranberry	27843.0	EMA	
+delphinidin		Vaccinium macrocarpon	Cranberry	38701.0	EMA	
+epicatechin		Vaccinium macrocarpon	Cranberry	90.0	EMA	
+fructose	79%-21%	Vaccinium macrocarpon	Cranberry	37714.0	EMA	
+galactose		Vaccinium macrocarpon	Cranberry	4139.0	EMA	
+hemicellulose		Vaccinium macrocarpon	Cranberry	61266.0	EMA	
+hydroxybenzoic		Vaccinium macrocarpon	Cranberry	30763.0	EMA	
+kaempferol		Vaccinium macrocarpon	Cranberry	28499.0	EMA	
+malvidin		Vaccinium macrocarpon	Cranberry	6674.0	EMA	
+monotropein		Vaccinium macrocarpon	Cranberry	6988.0	EMA	
+myricetin		Vaccinium macrocarpon	Cranberry	18152.0	EMA	
+pectin		Vaccinium macrocarpon	Cranberry	47954.0	EMA	
+pelargonidin		Vaccinium macrocarpon	Cranberry	25863.0	EMA	
+peonidin		Vaccinium macrocarpon	Cranberry	75314.0	EMA	
+petunidin		Vaccinium macrocarpon	Cranberry	75318.0	EMA	
+quercetin		Vaccinium macrocarpon	Cranberry	16243.0	EMA	
+ursolic acid		Vaccinium macrocarpon	Cranberry	9908.0	EMA	
+vitamin c		Vaccinium macrocarpon	Cranberry	29073.0	EMA	
+2s-hesperidin		Valeriana officinalis	Valerian	28775.0	EMA	
+actinidine		Valeriana officinalis	Valerian	2443.0	EMA	
+alanine		Valeriana officinalis	Valerian	16977.0	EMA	
+arginine		Valeriana officinalis	Valerian	16467.0	EMA	
+baldrinal		Valeriana officinalis	Valerian	80746.0	EMA	
+borneol		Valeriana officinalis	Valerian	28093.0	EMA	
+bornyl acetate		Valeriana officinalis	Valerian	3151.0	EMA	
+camphene		Valeriana officinalis	Valerian	3830.0	EMA	
+dihydrovaltrate		Valeriana officinalis	Valerian	4517.0	EMA	
+eudesmol		Valeriana officinalis	Valerian	10417.0	EMA	
+fructose		Valeriana officinalis	Valerian	37714.0	EMA	
+gaba		Valeriana officinalis	Valerian	16865.0	EMA	
+glucose		Valeriana officinalis	Valerian	4167.0	EMA	
+glutamine		Valeriana officinalis	Valerian	18050.0	EMA	
+homobaldrinal		Valeriana officinalis	Valerian	80747.0	EMA	
+isovaleric		Valeriana officinalis	Valerian	28484.0	EMA	
+isovaltrate		Valeriana officinalis	Valerian	80745.0	EMA	
+myrtenol		Valeriana officinalis	Valerian	25460.0	EMA	
+myrtenyl-isovalerianat		Valeriana officinalis	Valerian	173710.0	EMA	
+pyridine		Valeriana officinalis	Valerian	16227.0	EMA	
+raffinose		Valeriana officinalis	Valerian	16634.0	EMA	
+saccharose		Valeriana officinalis	Valerian	65313.0	EMA	
+valerenal		Valeriana officinalis	Valerian	166676.0	EMA	
+valerenic		Valeriana officinalis	Valerian	9921.0	EMA	45fada88-7084-4a02-8c57-561a4ef706ca
+valerianine		Valeriana officinalis	Valerian	9922.0	EMA	
+valerianol		Valeriana officinalis	Valerian	143779.0	EMA	
+valeric		Valeriana officinalis	Valerian	17418.0	EMA	
+valerosidatum		Valeriana officinalis	Valerian	80904.0	EMA	
+valtrate		Valeriana officinalis	Valerian	9928.0	EMA	
+withanolide d		Withania somnifera	Ashwaganda	10041.0	GSRS	1d7a145c-195a-42c8-bcd7-06c7772c9483
+(10)-gingerol		Zingiber officinale	Ginger	81134.0	GSRS	c4b86d24-81b2-4c5b-9be9-e5e4a5d9fd05
+(10)-shogaol		Zingiber officinale	Ginger	192883.0	GSRS	b26cead8-c3c3-47dd-87d3-ba6730aa5af3
+(8)-gingerdione		Zingiber officinale	Ginger	175095.0	GSRS	d8b4717f-d3b2-429c-8007-7367c0d0c4c6
+(8)-gingerol		Zingiber officinale	Ginger	81133.0	GSRS	cb699760-d0da-4f76-aee1-e8e7e84735da
+(8)-shogaol		Zingiber officinale	Ginger	174643.0	GSRS	094bf8d6-8170-4f1e-aa86-9d2c6eea8dce
+6-gingerol	4-7.5%	Zingiber officinale	Ginger	10136.0	EMA	6da11115-b546-4ac7-a6eb-c29beeb04b26
+bisabolene		Zingiber officinale	Ginger	49238.0	EMA	
+borneol		Zingiber officinale	Ginger	28093.0	EMA	
+camphene		Zingiber officinale	Ginger	3830.0	EMA	
+cineole		Zingiber officinale	Ginger	27961.0	EMA	
+citral		Zingiber officinale	Ginger	137934.0	EMA	
+curcumene		Zingiber officinale	Ginger	62757.0	EMA	
+farnesene		Zingiber officinale	Ginger	39237.0	EMA	
+geraniol		Zingiber officinale	Ginger	24221.0	EMA	
+gingerdiones	0.80%	Zingiber officinale	Ginger	10135.0	EMA	
+paradols		Zingiber officinale	Ginger	10137.0	EMA	
+phellandrene		Zingiber officinale	Ginger	50035.0	EMA	
+sesquiphellandrene		Zingiber officinale	Ginger	64361.0	EMA	
+shogaol		Zingiber officinale	Ginger	10138.0	GSRS	9ff2ee9c-cb77-431c-af1f-b928a051ecbf
+terpineol		Zingiber officinale	Ginger	22469.0	EMA	
+zingiberene		Zingiber officinale	Ginger	10115.0	EMA	

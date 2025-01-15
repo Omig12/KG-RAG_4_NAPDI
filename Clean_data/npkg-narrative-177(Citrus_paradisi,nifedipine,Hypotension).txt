@@ -1,0 +1,10 @@
+The Natural Product Citrus paradisi directly negatively regulates activity of the Enzyme or Transporter cytochrome P450 2D6 (human).     The Drug nifedipine directly negatively regulates activity of the Enzyme or Transporter cytochrome P450 2D6 (human).     And the Drug nifedipine is causally correlated with the Adverse Event Hypotension.
+
+Natural Product Ontology Identifier: http://napdi.org/napdi_srs_imports:citrus_paradisi
+Natural Product or Constituent Ontology Identifier: http://napdi.org/napdi_srs_imports:citrus_paradisi
+Process Ontology Identifier: http://purl.obolibrary.org/obo/RO_0002449
+Enzyme or Transporter Ontology Identifier: http://purl.obolibrary.org/obo/PR_P10635
+Process or Pathway Ontology Identifier: http://purl.obolibrary.org/obo/RO_0002449
+Drug Ontology Identifier: http://purl.obolibrary.org/obo/CHEBI_7565
+Causal Relation Ontology Identifier: http://purl.obolibrary.org/obo/RO_0002610
+Adverse Event Ontology Identifier: http://purl.obolibrary.org/obo/HP_0002615

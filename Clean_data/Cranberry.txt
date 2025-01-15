@@ -1,0 +1,87 @@
+Cranberry
+Unnamed: 1
+Unnamed: 2
+Vaccinium macrocarpon Aiton (Ericaceae)
+
+
+
+
+
+Synonym(s) and related species
+
+
+Large cranberry
+
+
+European cranberry
+
+
+Mossberry
+
+
+
+
+
+Monograph
+Interpretation
+Citation
+Ciclosporin
+Occasional consumption of cranberry juice does not appear to affect the bioavailibility of ciclosporin. Regular daily consumption has not been studied.
+Grenier J, Fradette C, Morelli G, Merritt GJ, Vranderick M, Ducharme MP. Pomelo juice, but not cranberry juice, affects the pharmacokinetics of cyclosporine in humans. Clin Pharmacol Ther (2006) 79, 255–62.
+Flurbiprofen
+Limited evidence suggests that cranberry juice does not appear to affect the pharmacokinetics of flurbiprofen.
+ Greenblatt DJ, von Moltke LL, Perloff ES, Luo Y, Harmatz JS, Zinny MA. Interaction of flurbiprofen with cranberry juice, grape juice, tea, and fluconazole: in vitro and clinical studies. Clin Pharmacol Ther (2006) 79, 125–33.
+Food
+No interactions found. Note that cranberry juice is widely used in food and beverages.
+
+Herbal medicines
+No interactions found. Note that cranberry juice is widely used in food and beverages.
+
+Midazolam
+Limited evidence suggests that cranberry juice does not appear to affect the pharmacokinetics of midazolam.
+Lilja JJ, Backman JT, Neuvonen PJ. Effects of daily ingestion of cranberry juice on the pharmacokinetics of warfarin, tizanidine, and midazolam – probes of CYP2C9, CYP1A2, and CYP3A4. Clin Pharmacol Ther (2007) 81, 833–9.
+Nifedipine
+The interaction between cranberry juice and nifedipine is based on experimental evidence only.
+Uesawa Y, Mohri K. Effects of cranberry juice on nifedipine pharmacokinetics in rats. J Pharm Pharmacol (2006) 58, 1067–72.
+Tizanidine
+Limited evidence suggests that cranberry juice does not appear to affect the pharmacokinetics of tizanidine.
+Lilja JJ, Backman JT, Neuvonen PJ. Effects of daily ingestion of cranberry juice on the pharmacokinetics of warfarin, tizanidine, and midazolam – probes of CYP2C9, CYP1A2, and CYP3A4. Clin Pharmacol Ther (2007) 81, 833–9.
+Warfarin and related drugs
+A number of case reports suggest that cranberry juice can increase the INR of patients taking warfarin, and one patient has died as a result of this interaction. Other patients have developed unstable INRs or, in one isolated case, a reduced INR. However, in four controlled studies, cranberry juice did not alter the anticoagulant effect of warfarin, or had only very minor effects on the INR. Neither cranberry juice nor the extract altered warfarin pharmacokinetics.
+Committee on Safety of Medicines/Medicines and Healthcare products Regulatory Agency Possible interaction between warfarin and cranberry juice. Current Problems (2003) 29, 8.
+
+
+Committee on Safety of Medicines/Medicines and Healthcare products Regulatory Agency Interaction between warfarin and cranberry juice: new advice. Current Problems (2004) 30, 10.
+
+
+Suvarna R, Pirmohamed M, Henderson L. Possible interaction between warfarin and cranberry juice. BMJ (2003) 327, 1454.
+
+
+Grant P. Warfarin and cranberry juice: an interaction? J Heart Valve Dis (2004) 13, 25– 6.
+
+
+Walsh KM. Getting to yes. J Am Geriatr Soc (2005) 53, 1072.
+
+
+Rindone JP, Murphy TW. Warfarin-cranberry juice interaction resulting in profound hypoprothrombinemia and bleeding. Am J Ther (2006) 13, 283–4.
+
+
+Paeng CH, Sprague M, Jackevicius CA. Interaction between warfarin and cranberry juice. Clin Ther (2007) 29, 1730–5.
+
+
+Li Z, Seeram NP, Carpenter CL, Thames G, Minutti C, Bowerman S. Cranberry does not affect prothrombin time in male subjects on warfarin. J Am Diet Assoc (2006) 106, 2057–61.
+
+
+Ansell J, McDonough M, Jarmatz JS, Greenblatt DJ. A randomized, double-blind trial of the interaction between cranberry juice and warfarin. J Thromb Thrombolysis (2008) 25, 112
+
+
+Lilja JJ, Backman JT, Neuvonen PJ. Effects of daily ingestion of cranberry juice on the pharmacokinetics of warfarin, tizanidine, and midazolam – probes of CYP2C9, CYP1A2, and CYP3A4. Clin Pharmacol Ther (2007) 81, 833–9.
+
+
+Mohammed Abdul MI, Jiang X, Williams KM, Day RO, Roufogalis BD, Liauw WS, Xu H, McLachlan AJ. Pharmacodynamic interaction of warfarin with cranberry but not with garlic in healthy subjects. Br J Pharmacol (2008) 154, 1691–1700
+
+
+Greenblatt DJ, von Moltke LL, Perloff ES, Luo Y, Harmatz JS, Zinny MA. Interaction of flurbiprofen with cranberry juice, grape juice, tea, and fluconazole: in vitro and clinical studies. Clin Pharmacol Ther (2006) 79, 125–33.
+
+
+Isele H. Tödliche Blutung unter Warfarin plus Preiselbeersaft. Liegt’s an der Salizylsäure? MMW Fortschr Med (2004) 146, 13.

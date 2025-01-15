@@ -1,0 +1,57 @@
+Grapefruit
+Unnamed: 1
+Unnamed: 2
+Citrus paradisi Macfad. (Rutaceae)
+
+
+
+
+
+Synonym(s) and related species
+
+
+Citrus paradisi Macfad.
+
+
+
+
+
+Monograph
+Interpretation
+Citation
+Caffeine
+For mention that grapefruit juice and one of its constituents naringin, a grapefruit flavonoid, had no effect on the metabolism of caffeine, see Flavonoids + Caffeine, page 216.
+
+Calcium-channel blockers
+Grapefruit segments increase the exposure to nifedipine, nisoldipine and felodipine.
+Bailey DG, Dresser GK, Kreeft JH, Munoz C, Freeman DJ, Bend JR. Grapefruitfelodipine interaction: effect of unprocessed fruit and probable active ingredients. Clin Pharmacol Ther (2000) 68, 468–77.
+
+
+Ohtani M, Kawabata S, Kariya S, Uchino K, Itou K, Kotaki H, Kasuyama K, Morikawa A, Seo I, Nishida N. Effect of grapefruit pulp on the pharmacokinetics of the dihydropyridine calcium antagonists nifedipine and nisoldipine. Yakugaku Zasshi (2002) 122, 323–9.
+
+
+Rashid J, McKinstry C, Renwick AG, Dirnhuber M, Waller DG, George CF. Quercetin, an in vitro inhibitor of CYP3A, does not contribute to the interaction between nifedipine and grapefruit juice. Br J Clin Pharmacol (1993) 36, 460–3.
+Carbamazepine
+A case of possible carbamazepine toxicity has been seen when a man taking carbamazepine started to eat grapefruit.
+Bonin B, Vandel P, Vandel S, Kantelip JP. Effect of grapefruit intake on carbamazepine bioavailability: a case report. Therapie (2001) 56, 69–71.
+
+
+Garg SK, Kumar N, Bhargava VK, Prabhakar SK. Effect of grapefruit juice on carbamazepine bioavailability in patients with epilepsy. Clin Pharmacol Ther (1998) 64, 286–8.
+Fexofenadine
+For mention that grapefruit juice and, to a lesser extent, naringin, a grapefruit flavonoid, modestly decrease the AUC of fexofenadine, see Flavonoids + Fexofenadine, page 219.
+
+Food
+No interactions found. For mention that grapefruit juice and one of its constituents naringin, a grapefruit flavonoid, had no effect on the metabolism of caffeine, see Flavonoids + Caffeine, page 216. Note that grapefruit is commonly consumed as part of the diet.
+
+Herbal medicines
+No interactions found. Note that naringin, a grapefruit flavonoid, and grapefruit juice do not alter the metabolism of caffeine, see Flavonoids + Caffeine, page 216, and so would be unlikely to interact with caffeine in caffeine-containing herbs, page 106.
+
+Tacrolimus
+A case of tacrolimus toxicity has been seen when a man ate more than 1.5 kg of grapefruit marmalade during one week.
+Peynaud D, Charpiat B, Vial T, Gallavardin M, Ducerf C. Tacrolimus severe overdosage after intake of masked grapefruit in orange marmalade. Eur J Clin Pharmacol (2007) 63, 721–2.
+Warfarin
+A rise in INR occurred in a couple taking warfarin who took a grapefruit seed extract product containing considerable amounts of the preservative benzethonium chloride for 3 days. One of them developed a minor haematoma.
+Brandin H, Myrberg O, Rundlöf T, Arvidsson AK, Brenning G. Adverse effects by artificial grapefruit seed extract products in patients on warfarin therapy. Eur J Clin Pharmacol (2007) 63, 565–70.
+
+
+Takeoka G, Dao L, Wong RY, Lundin R, Mahoney N. Identification of benzethonium chloride in commercial grapefruit seed extracts. J Agric Food Chem (2001) 49, 3316–20.

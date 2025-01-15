@@ -1,0 +1,111 @@
+Soy
+Unnamed: 1
+Unnamed: 2
+Glycine max (L.Merr.) (Fabaceae)
+
+
+
+
+
+Synonym(s) and related species
+
+
+Soya
+
+
+Glycine soja Siebold 
+
+
+Zucc.
+
+
+
+
+
+Monograph
+Interpretation
+Citation
+Antibacterials
+No data for soya found. For the theoretical possibility that broadspectrum antibacterials might reduce the metabolism of the isoflavone constituents of soya, such as daidzein, by colonic bacteria, and so alter their efficacy, see Isoflavones + Antibacterials, page 302.
+
+Caffeine
+Soya products may increase the metabolism of caffeine.
+Blake MJ, Abdel-Rahman SM, Pearce RE, Leeder JS, Kearns GL. Effect of diet on the development of drug metabolism by cytochrome P-450 enzymes in healthy infants. Pediatr Res (2006) 60, 717–23.
+
+
+Le Guennec J-C, Billon B. Delay in caffeine elimination in breast-fed infants. Pediatrics (1987) 79, 264–8.
+
+
+Xu H, Rajesan R, Harper P, Kim RB, Lonnerdal B, Yang M, Uematsu S, Hutson J, Watson-MacDonell J, Ito S. Induction of cytochrome P450 1A by cow milk-based formula: a comparative study between human milk and formula. Br J Pharmacol (2005) 146, 296–305.
+Food
+No interactions found.
+
+Herbal medicines
+No interactions found.
+
+Levothyroxine and related drugs
+Soya products or soya isoflavones might increase the dose required of thyroid hormone replacement therapy.
+Bell DS, Ovalle F. Use of soy protein supplement and resultant need for increased dose of levothyroxine. Endocr Pract (2001) 7, 193–4.
+
+
+Chorazy PA, Himelhoch S, Hopwood NJ, Greger NG, Postellon DC. Persistent hypothyroidism in an infant receiving a soy formula: case report and review of the literature. Pediatrics (1995) 96, 148–50.
+
+
+Jabbar MA, Larrea J, Shaw RA. Abnormal thyroid function tests in infants with congenital hypothyroidism: the influence of soy-based formula. J Am Coll Nutr (1997) 16, 280–2.
+
+
+Conrad SC, Chiu H, Silverman BL. Soy formula complicates management of congenital hypothyroidism. Arch Dis Child (2004) 89, 37–40.
+
+
+Doerge DR, Sheehan DM. Goitrogenic and estrogenic activity of soy isoflavones. Environ Health Perspect (2002) 110 (Suppl 3), 349–53.
+
+
+Messina M, Redmond G. Effects of soy protein and soybean isoflavones on thyroid function in healthy adults and hypothyroid patients: a review of the relevant literature. Thyroid (2006) 16, 249–58.
+MAOIs or RIMAs
+A potentially fatal hypertensive reaction can occur between the non-selective MAOIs and tyramine-rich foods. Significant amounts of tyramine may be present in fermented or preserved soya products such as soy sauce and tofu, and it may be prudent to avoid these while taking an MAOI. Effects may last for up to two weeks after discontinuation of the MAOI. However, other soya products such as dried textured soya protein and fresh soya beans are unlikely to contain important amounts of tyramine. The risk of a serious hypertensive reaction with moclobemide (or other RIMAs) is very much reduced. Most patients therefore do not need to follow the special dietary restrictions required with the non-selective MAOIs.
+Abrams JH, Schulman P, White WB. Successful treatment of a monoamine oxidase inhibitor-tyramine hypertensive emergency with intravenous labetolol [sic]. N Engl J Med (1985) 313, 52.
+
+
+Shulman KI, Walker SE. Refining the MAOI diet: tyramine content of pizzas and soy products. J Clin Psychiatry (1999) 60, 191–3.
+
+
+Da Prada M, Zürcher G. Tyramine content of preserved and fermented foods or condiments of Far Eastern cuisine. Psychopharmacology (Berl) (1992) 106, 32–4.
+
+
+Generali JA, Hogan LC, McFarlane M, Schwab S, Hartman CR. Hypertensive crisis resulting from avocados and a MAO inhibitor. Drug Intell Clin Pharm (1981) 15, 904–6.
+Nicotine
+For discussion of a study showing that soya isoflavones (daidzein and genistein) caused a minor decrease in the metabolism of nicotine, see Isoflavones + Nicotine, page 303.
+
+Paclitaxel
+No data for soya found. For the possibility that genistein, an isoflavone present in soya, might markedly increase paclitaxel levels, see Isoflavones + Paclitaxel, page 303.
+
+Tamoxifen
+No data for soya found. For the possibility that high doses of daidzein present in soya might modestly increase theophylline levels, see Isoflavones + Theophylline, page 304.
+
+Warfarin and related drugs
+Natto, a Japanese food made from fermented soya bean, can markedly reduce the effects of warfarin and acenocoumarol, because of the high levels of vitamin K2 substance produced in the fermentation process. In one study, soya bean protein also modestly reduced the effects of warfarin, and a similar case has been reported with soy milk. Two cases of ‘warfarin resistance’ have been seen in patients given intravenous soya oil emulsions.
+Schurgers LJ, Shearer MJ, Hamulyák K, Stöcklin E, Vermeer C. Effect of vitamin K intake on the stability of oral anticoagulant treatment: dose-response relationships in healthy subjects. Blood (2004) 104, 2682–9.
+
+
+Kudo T. Warfarin antagonism of natto and increase in serum vitamin K by intake of natto. Artery (1990) 17, 189–201.
+
+
+Cambria-Kiely JA. Effect of soy milk on warfarin efficacy. Ann Pharmacother (2002) 36, 1893–6. 
+
+
+Lutomski DM, Palascak JE, Bower RH. Warfarin resistance associated with intravenous lipid administration. J Parenter Enteral Nutr (1987) 11, 316–18.
+
+
+MacLaren R, Wachsman BA, Swift DK, Kuhl DA. Warfarin resistance associated with intravenous lipid administration: discussion of propofol and review of the literature. Pharmacotherapy (1997) 17, 1331–7.
+
+
+Gaddi A, Sangiorgi Z, Ciarrocchi A, Braiato A, Descovich GC. Hypocholesterolemic soy protein diet and resistance to warfarin therapy. Curr Ther Res (1989) 45, 1006–10.
+
+
+Anderson GD, Rosito G, Mohustsy MA, Elmer GW. Drug Interaction potential of soy extract and Panax ginseng. J Clin Pharmacol (2003) 43, 643–8.
+
+
+USDA National Nutrient Database for Standard Reference, Release 17. Vitamin K (phylloquinone) (μg) Content of selected foods per common measure. http://www.nal.usda.gov/fnic/foodcomp/Data/SR17/wtrank/sr17a430.pdf (accessed 17/08/2007).
+
+
+Schurgers LJ, Vermeer C. Determination of phylloquinone and menaquinones in food. Effect of food matrix on circulating vitamin K concentrations. Haemostasis (2000) 30, 298–307.

@@ -1,0 +1,111 @@
+Purple-coneflower
+Unnamed: 1
+Unnamed: 2
+Echinacea species (Asteraceae)
+
+
+
+
+
+Synonym(s) and related species
+
+
+Echinacea
+
+
+Black sampson
+
+
+Brauneria
+
+
+Coneflower
+
+
+Purple coneflower
+
+
+Rudbeckia
+
+
+Echinacea angustifolia (DC) Heller
+
+
+Echinacea pallida (Nutt.) Britt.
+
+
+Echinacea purpurea (L.) Moensch
+
+
+Echinacea intermedia Lindl.
+
+
+Rudbeckia hispida Hoffm
+
+
+Rudbeckia pallida Nutt
+
+
+Rudbeckia purpurea L
+
+
+Rudbeckia serotina (Nutt) Sweet
+
+
+
+
+
+Monograph
+Interpretation
+Citation
+Caffeine
+Echinacea appears to have a variable effect on the pharmacokinetics of caffeine. In most patients, echinacea is unlikely to raise caffeine levels.
+Gorski JC, Huang S-M, Pinto A, Hamman MA, Hilligoss JK, Zaheer NA, Desai M, Miller M, Hall SD. The effect of echinacea (Echinacea purpurea root) on cytochrome P450 activity in vivo. Clin Pharmacol Ther (2004) 75, 89–100.
+
+
+Gurley BJ, Gardner SF, Hubbard MA, Williams DK, Gentry WB, Carrier J, Khan IA, Edwards DJ, Shah A. In vivo assessment of botanical supplementation on human cytochrome P450 phenotypes: Citrus aurantium, Echinacea purpurea, milk thistle, and saw palmetto. Clin Pharmacol Ther (2004) 76, 428–40.
+Dextromethorphan
+Echinacea does not appear to have a clinically relevant effect on the pharmacokinetics of dextromethorphan.
+Gorski JC, Huang S-M, Pinto A, Hamman MA, Hilligoss JK, Zaheer NA, Desai M, Miller M, Hall SD. The effect of echinacea (Echinacea purpurea root) on cytochrome P450 activity in vivo. Clin Pharmacol Ther (2004) 75, 89–100.
+
+
+Gurley BJ, Gardner SF, Hubbard MA, Williams DK, Gentry WB, Carrier J, Khan IA, Edwards DJ, Shah A. In vivo assessment of botanical supplementation on human cytochrome P450 phenotypes: Citrus aurantium, Echinacea purpurea, milk thistle, and saw palmetto. Clin Pharmacol Ther (2004) 76, 428–40.
+
+
+Hellum BH, Nilsen OG. The in vitro inhibitory potential of trade herbal products on human CYP2D6-mediated metabolism and the influence of ethanol. Basic Clin Pharmacol Toxicol (2007) 101, 350–8.
+
+
+Hellum BH, Hu Z, Nilsen OG. The induction of CYP1A2, CYP2D6 and CYP3A4 by six trade herbal products in cultured primary human hepatocytes. Basic Clin Pharmacol Toxicol (2007) 100, 23–30.
+
+
+Gurley BJ, Swain A, Hubbard MA, Williams DK, Barone G, Hartsfield F, Tong Y, Carrier DJ, Cheboyina S, Battu SK. Clinical assessment of CYP2D6-mediated herbdrug interactions in humans: effects of milk thistle, black cohosh, goldenseal, kava kava, St John’s wort, and Echinacea. Mol Nutr Food Res (2008) 52, 755–63.
+Digoxin
+Echinacea does not appear to have a clinically relevant effect on the pharmacokinetics of digoxin.
+Gurley BJ, Swain A, Williams DK, Barone G, Battu SK. Gauging the clinical significance of P-glycoprotein mediated herb-drug interactions: Comparative effects of St Johns wort, Echinacea, clarithromycin, and rifampin on digoxin pharmacokinetics. Mol Nutr Food Res (2008) 52, 755–63.
+
+
+Hellum BH, Nilsen OG. In vitro inhibition of CYP3A4 metabolism and P-glycoproteinmediated transport by trade herbal products. Basic Clin Pharmacol Toxicol (2008) 102, 466–75.
+Food
+No interactions found.
+
+Herbal medicines
+No interactions found.
+
+Immunosuppressants
+The interaction between echinacea and immunosuppressants is based on a prediction only.
+Echinaflu Soft Capsules (Dried pressed juice from Echinacea purpurea). Swiss Caps GmbH. UK Summary of product characteristics, June 2008. 
+
+
+EchinEeze Tablets (Dry extract of Echinacea purpurea root). Natures Aid Health Products. UK Summary of product characteristics, July 2008.
+
+
+Duchy Herbals Echina-Relief Tincture (Alcoholic dry extract of Echinacea purpurea root). Nelson and Co. Ltd. UK Summary of product characteristics, October 2008.
+Midazolam
+Echinacea does not appear to alter the AUC and clearance of oral midazolam, although the bioavailability may be increased. Clearance of intravenous midazolam may be modestly increased in patients taking echinacea
+Gurley BJ, Gardner SF, Hubbard MA, Williams DK, Gentry WB, Carrier J, Khan IA, Edwards DJ, Shah A. In vivo assessment of botanical supplementation on human cytochrome P450 phenotypes: Citrus aurantium, Echinacea purpurea, milk thistle, and saw palmetto. Clin Pharmacol Ther (2004) 76, 428–40.
+
+
+Gorski JC, Huang S-M, Pinto A, Hamman MA, Hilligoss JK, Zaheer NA, Desai M, Miller M, Hall SD. The effect of echinacea (Echinacea purpurea root) on cytochrome P450 activity in vivo. Clin Pharmacol Ther (2004) 75, 89–100.
+Tolbutamide
+Echinacea does not appear to have a clinically relevant effect on the pharmacokinetics of tolbutamide.
+Gorski JC, Huang S-M, Pinto A, Hamman MA, Hilligoss JK, Zaheer NA, Desai M, Miller M, Hall SD. The effect of echinacea (Echinacea purpurea root) on cytochrome P450 activity in vivo. Clin Pharmacol Ther (2004) 75, 89–100.

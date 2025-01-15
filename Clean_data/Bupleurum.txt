@@ -1,0 +1,63 @@
+Bupleurum
+Unnamed: 1
+Unnamed: 2
+Bupleurum falcatum L. (Apiaceae)
+
+
+
+
+
+Synonym(s) and related species
+
+
+Chai hui
+
+
+Hare’s ear
+
+
+Saiko
+
+
+Bupleurum chinense DC.
+
+
+Bupleurum fruticosum L.
+
+
+Bupleurum scorzonerifolium Willd. are also used medicinally
+
+
+Bupleurum longiradiatum Turcz. is toxic and should be avoided.
+
+
+
+
+
+Monograph
+Interpretation
+Citation
+Caffeine
+Sho-saiko-to slightly reduces the metabolism of caffeine, but this is not expected to be clinically important.
+Saruwatari J, Nakagawa K, Shindo J, Nachi S, Echizen H, Ishizaki T. The in-vivo effects of sho-saiko-to, a traditional Chinese herbal medicine, on two cytochrome P450 enzymes (1A2 and 3A) and xanthine oxidase in man. J Pharm Pharmacol (2003) 55, 1553–9.
+Carbamazepine
+Any interaction between sho-saiko-to and saiko-ka-ryukotsuborei-to and carbamazepine is based on experimental evidence only.
+Ohnishi N, Okada K, Yoshioka M, Kuroda K, Nagasawa K, Takara K, Yokoyama T. Studies on interactions between traditional herbal and western medicines. V. Effects of Sho-saiko-to (Xiao-Cai-hu-Tang) on the pharmacokinetics of carbamazepine in rats. Biol Pharm Bull (2002) 25, 1461–6.
+
+
+Ohnishi N, Nakasako S, Okada K, Umehara S, Takara K, Nagasawa K, Yoshioka M, Kuroda K, Yokoyama T. Studies on interactions between traditional herbal and western medicines. IV: lack of pharmacokinetic interactions between Saiko-ka-ryukotsu-borei-to and carbamazepine in rats. Eur J Drug Metab Pharmacokinet (2001) 26, 129–35.
+Food
+There is limited experimental evidence from animal studies that the absorption of saikosaponins (the main constituents of bupleurum) might differ when taken with food as opposed to the fasting state, see Pharmacokinetics, page 98.
+
+Herbal medicines
+No interactions found.
+
+Ofloxacin
+Sho-saiko-to and Sairei-to do not appear to affect the pharmacokinetics of ofloxacin.
+Hasegawa T, Yamaki K, Nadai M, Muraoka I, Wang L, Takagi K, Nabeshima T. Lack of effect of Chinese medicines on bioavailability of ofloxacin in healthy volunteers. Int J Clin Pharmacol Ther (1994) 32, 57–61.
+Tolbutamide
+The interaction between sho-saiko-to and tolbutamide is based on experimental evidence only.
+Nishimura N, Naora K, Hirano H, Iwamoto K. Effects of Sho-saiko-to on the pharmacokinetics and pharmacodynamics of tolbutamide in rats. J Pharm Pharmacol (1998) 50, 231–6.
+
+
+Nishimura N, Naora K, Hirano H, Iwamoto K. Effects of Sho-saiko-to (Xiao Chai Hu Tang), a Chinese traditional medicine, on the gastric function and absorption of tolbutamide in rats. Yakugaku Zasshi (2001) 121, 153–9.

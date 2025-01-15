@@ -1,0 +1,126 @@
+Garlic
+Unnamed: 1
+Unnamed: 2
+Allium sativum L. (Alliaceae)
+
+
+
+
+
+Synonym(s) and related species
+
+
+Ajo, Allium.
+
+
+
+
+
+Monograph
+Interpretation
+Citation
+ACE inhibitors
+In a single report, a patient taking lisinopril developed marked hypotension and became faint after taking garlic capsules.
+McCoubrie M. Doctors as patients: lisinopril and garlic. Br J Gen Pract (1996) 46, 107.
+Alcohol
+The interaction between garlic and alcohol is based on experimental evidence only.
+Kishimoto R, Ueda M, Yoshinaga H, Goda K, Park S-S. Combined effects of ethanol and garlic on hepatic ethanol metabolism in mice. J Nutr Sci Vitaminol (1999) 45, 275– 86.
+Antiplatelet drugs
+Garlic may have antiplatelet properties. It might therefore be expected to increase the risk of bleeding with conventional antiplatelet drugs and other drugs that have antiplatelet adverse effects.
+Rahman K, Billington D. Dietary supplementation with aged garlic extract inhibits ADP-induced platelet aggregation in humans. J Nutr (2000) 130, 2662–5.
+
+
+Steiner M, Li W. Aged garlic extract, a modulator of cardiovascular risk factors: a dosefinding study on the effects of AGE on platelet functions. J Nutr (2001) 131, 980S–4S.
+
+
+Apitz-Castro R, Escalante J, Vargas R, Jain MK. Ajoene, the antiplatelet principle of garlic, synergistically potentiates the antiaggregatory action of prostacyclin, forskolin, indomethacin and dypiridamole [sic] on human platelets. Thromb Res (1986) 42, 303– 11.
+Benzodiazepines
+Garlic does not appear to affect the pharmacokinetics of alprazolam, midazolam or triazolam to a clinically relevant extent.
+Markowitz JS, DeVane CL, Chavin KD, Taylor RM, Ruan Y, Donovan JL. Effects of garlic (Allium sativum L.) supplementation on cytochrome P450 2D6 and 3A4 activity in healthy volunteers. Clin Pharmacol Ther (2003) 74, 170–7.
+
+
+Gurley BJ, Gardner SF, Hubbard MA, Williams DK, Gentry WB, Cui Y, Ang CYW. Cytochrome P450 phenotypic ratios for predicting herb-drug interactions in humans. Clin Pharmacol Ther (2002) 72, 276–87.
+
+
+Gurley BJ, Gardner SF, Hubbard MA, Williams DK, Gentry WB, Cui Y, Ang CYW. Clinical assessment of botanical supplementation on cytochrome P450 phenotypes in the elderly: St John’s wort, garlic oil, Panax ginseng, and Ginkgo biloba. Drugs Aging (2005) 22, 525–39.
+
+
+Greenblatt DJ, Leigh-Pemberton RA, von Moltke LL. In vitro interactions of watersoluble garlic components with human cytochromes P450. J Nutr (2006) 136, 806S–9S.
+Caffeine
+Garlic does not appear to affect the pharmacokinetics of caffeine.
+Gurley BJ, Gardner SF, Hubbard MA, Williams DK, Gentry WB, Cui Y, Ang CYW. Cytochrome P450 phenotypic ratios for predicting herb-drug interactions in humans. Clin Pharmacol Ther (2002) 72, 276–87.
+
+
+Gurley BJ, Gardner SF, Hubbard MA, Williams DK, Gentry WB, Cui Y, Ang CYW. Clinical assessment of botanical supplementation on cytochrome P450 phenotypes in the elderly: St John’s wort, garlic oil, Panax ginseng, and Ginkgo biloba. Drugs Aging (2005) 22, 525–39.
+Chlorzoxazone
+The metabolism of chlorzoxazone is modestly inhibited by garlic but this effect is probably not clinically relevant.
+Gurley BJ, Gardner SF, Hubbard MA, Williams DK, Gentry WB, Cui Y, Ang CYW. Cytochrome P450 phenotypic ratios for predicting herb-drug interactions in humans. Clin Pharmacol Ther (2002) 72, 276–87.
+
+
+Gurley BJ, Gardner SF, Hubbard MA, Williams DK, Gentry WB, Cui Y, Ang CYW. Clinical assessment of botanical supplementation on cytochrome P450 phenotypes in the elderly: St John’s wort, garlic oil, Panax ginseng, and Ginkgo biloba. Drugs Aging (2005) 22, 525–39.
+
+
+Loizou GD, Cocker J. The effects of alcohol and diallyl sulphide on CYP2E1 activity in humans: a phenotyping study using chlorzoxazone. Hum Exp Toxicol (2001) 20, 321–7.
+
+
+Chen L, Yang CS. Effects of cytochrome P450 2E1 modulators on the pharmacokinetics of chlorzoxazone and 6-hydroxychlorzoxazone in rats. Life Sci (1996) 58, 1575–85.
+Dextromethorphan
+Garlic does not appear to affect the pharmacokinetics of dextromethorphan or debrisoquine.
+Markowitz JS, DeVane CL, Chavin KD, Taylor RM, Ruan Y, Donovan JL. Effects of garlic (Allium sativum L.) supplementation on cytochrome P450 2D6 and 3A4 activity in healthy volunteers. Clin Pharmacol Ther (2003) 74, 170–7.
+
+
+Gurley BJ, Gardner SF, Hubbard MA, Williams DK, Gentry WB, Cui Y, Ang CYW. Cytochrome P450 phenotypic ratios for predicting herb-drug interactions in humans. Clin Pharmacol Ther (2002) 72, 276–87.
+
+
+Gurley BJ, Gardner SF, Hubbard MA, Williams DK, Gentry WB, Cui Y, Ang CYW. Clinical assessment of botanical supplementation on cytochrome P450 phenotypes in the elderly: St John’s wort, garlic oil, Panax ginseng, and Ginkgo biloba. Drugs Aging (2005) 22, 525–39.
+
+
+Greenblatt DJ, Leigh-Pemberton RA, von Moltke LL. In vitro interactions of watersoluble garlic components with human cytochromes P450. J Nutr (2006) 136, 806S–9S.
+Docetaxel
+Garlic does not appear to affect the pharmacokinetics of intravenous docetaxel.
+Cox MC, Low J, Lee J, Walshe J, Denduluri N, Berman A, Permenter MG, Petros WP, Price DK, Figg WD, Sparreboom A, Swain SM. Influence of garlic (Allium sativum) on the pharmacokinetics of docetaxel. Clin Cancer Res (2006) 12, 4636–40.
+Food
+The information regarding the use of garlic with food is based on experimental evidence only.
+ Sheen L-Y, Chen H-W, Kung Y-L, Cheng-Tzu L, Lii C-K. Effects of garlic oil and its organosulfur compounds on the activities of hepatic drug-metabolizing and antioxidant enzymes in rats fed high- and low-fat diets. Nutr Cancer (1999) 35, 160–6.
+Gentamicin
+The information regarding the use of garlic with gentamicin is based on experimental evidence only.
+Maldonado PD, Chánez-Cárdenas ME, Pedraza-Chaverrí J. Aged garlic extract, garlic powder extract, S-allylcysteine, diallyl sulfide and diallyl disulfide do not interfere with the antibiotic activity of gentamicin. Phytother Res (2005) 19, 252–4.
+Herbal medicines; Caffeine containing
+Garlic did not interact with caffeine, page 200, and is therefore unlikely to interact with caffeine-containing herbs, as a result of this constituent.
+
+Herbal medicines; Fish oil
+Garlic supplements and fish oils may have beneficial effects on blood lipids.
+Adler AJ, Holub BJ. Effect of garlic and fish-oil supplementation on serum lipid and lipoprotein concentrations in hypercholesterolemic men. Am J Clin Nutr (1997) 65, 445–50.
+
+
+Chen H-W, Tsai C-W, Yang J-J, Liu C-T, Kuo W-W, Lii C-K. The combined effects of garlic oil and fish oil on the hepatic antioxidant and drug-metabolizing enzymes of rats. Br J Nutr (2003) 89, 189–200.
+Isoniazid
+The interaction between garlic and isoniazid is based on experimental evidence only.
+Dhamija P, Malhotra S, Pandhi P. Effect of oral administration of crude aqueous extract of garlic on pharmacokinetic parameters of isoniazid and rifampicin in rabbits. Pharmacology (2006) 77, 100–4.
+Paracetamol (Acetaminophen)
+Studies in healthy subjects found that garlic did not affect the pharmacokinetics of single-dose paracetamol to a clinically relevant extent.
+Gwilt PR, Lear CL, Tempero MA, Birt DD, Grandjean AC, Ruddon RW, Nagel DL. The effect of garlic extract on human metabolism of acetaminophen. Cancer Epidemiol Biomarkers Prev (1994) 3, 155–60.
+
+
+Lin MC, Wang E-J, Patten C, Lee M-J, Xiao F, Reuhl KR, Yang CS. Protective effect of diallyl sulfone against acetaminophen-induced hepatotoxicity in mice. J Biochem Toxicol (1996) 11, 11–20.
+Protease inhibitors
+A garlic supplement reduced the plasma levels of saquinavir in one study, but had little effect in another. Another garlic supplement did not significantly affect the pharmacokinetics of a single dose of ritonavir.
+Piscitelli SC, Burstein AH, Welden N, Gallicano KD, Falloon J. The effect of garlic supplements on the pharmacokinetics of saquinavir. Clin Infect Dis (2002) 34, 234–8.
+
+
+Jacek H, Rentsch KM, Steinert HC, Pauli-Magnus C, Meier PJ, Fattinger K. No effect of garlic extract on saquinavir kinetics and hepatic CYP3A4 function measured by the erythromycin breath test. Clin Pharmacol Ther (2004) 75, P80.
+
+
+Gallicano K, Foster B, Choudhri S. Effect of short-term administration of garlic supplements on single-dose ritonavir pharmacokinetics in healthy volunteers. Br J Clin Pharmacol (2003) 55, 199–202.
+
+
+Laroche M, Choudhri S, Gallicano K, Foster B. Severe gastrointestinal toxicity with concomitant ingestion of ritonavir and garlic. Can J Infect Dis (1998) 9 (Suppl A), 76A.
+
+
+Patel J, Buddha B, Dey S, Pal D, Mitra AK. In vitro interaction of the HIV protease inhibitor ritonavir with herbal constituents: changes in P-gp and CYP3A4 activity. Am J Ther (2004) 11, 262–77.
+Rifampicin (Rifampin)
+The information regarding the use of garlic with rifampicin is based on experimental evidence only.
+Dhamija P, Malhotra S, Pandhi P. Effect of oral administration of crude aqueous extract of garlic on pharmacokinetic parameters of isoniazid and rifampicin in rabbits. Pharmacology (2006) 77, 100–4.
+Warfarin and related drugs
+An isolated report described increases in the anticoagulant effects of warfarin in two patients taking garlic supplements. Another report described a decrease in anticoagulant effects of fluindione in a patient taking garlic tablets. Garlic supplements alone have also rarely been associated with bleeding. However, in one study, aged garlic extract did not increase the INR or risk of bleeding in patients taking warfarin.
+Pathak A, Léger P, Bagheri H, Senard J-M, Boccalon H, Montastruc J-L. Garlic interaction with fluindione: a case report. Therapie (2003) 58, 380–1.
