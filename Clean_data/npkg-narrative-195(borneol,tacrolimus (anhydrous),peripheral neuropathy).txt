@@ -1,0 +1,10 @@
+The Natural Product borneol directly negatively regulates quantity of the Enzyme or Transporter ATP-dependent translocase ABCB1 (human).     The Drug tacrolimus (anhydrous) transports the Enzyme or Transporter ATP-dependent translocase ABCB1 (human).     And the Drug tacrolimus (anhydrous) is causally correlated with the Adverse Event peripheral neuropathy.
+
+Natural Product Ontology Identifier: http://napdi.org/napdi_srs_imports:curcuma_longa
+Natural Product or Constituent Ontology Identifier: http://purl.obolibrary.org/obo/CHEBI_28093
+Process Ontology Identifier: http://purl.obolibrary.org/obo/RO_0011010
+Enzyme or Transporter Ontology Identifier: http://purl.obolibrary.org/obo/PR_P08183
+Process or Pathway Ontology Identifier: http://purl.obolibrary.org/obo/RO_0002020
+Drug Ontology Identifier: http://purl.obolibrary.org/obo/CHEBI_61049
+Causal Relation Ontology Identifier: http://purl.obolibrary.org/obo/RO_0002610
+Adverse Event Ontology Identifier: http://purl.obolibrary.org/obo/MONDO_0005244

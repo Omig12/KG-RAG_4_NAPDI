@@ -1,0 +1,102 @@
+Milk Thistle
+Unnamed: 1
+Unnamed: 2
+Silybum marianum (L.) Gaertn. (Asteraceae)
+
+
+
+
+
+Synonym(s) and related species
+
+
+Lady’s thistle
+
+
+Marian thistle
+
+
+Mediterranean milk thistle
+
+
+St Mary’s thistle
+
+
+Carduus marianus
+
+
+Mariana lactea Hill
+
+
+
+
+
+Monograph
+Interpretation
+Citation
+Angiotensin II receptor anatagonists
+Milk thistle appears to decrease the metabolism of losartan to its active metabolite, E-3174.
+Han Y, Guo D, Chen Y, Tan Z-R, Zhou H-h. Effect of silymarin on the pharmacokinetics of losartan and its active metabolite E-3174 in healthy Chinese volunteers Eur J Clin Pharmacol (2009) 65, 585-91.
+Benzodiazepines
+Milk thistle does not appear to affect the pharmacokinetics of midazolam.
+Gurley B, Hubbard MA, Williams DK, Thaden J, Tong Y, Gentry WB, Breen P, Carrier DJ, Cheboyina S. Assessing the clinical significance of botanical supplementation on human cytochrome P450 3A activity: comparison of a milk thistle and black cohosh product to rifampin and clarithromycin. J Clin Pharmacol (2006) 46, 201–13.
+
+
+Gurley BJ, Gardner SF, Hubbard MA, Williams DK, Gentry WB, Carrier J, Khan IA, Edwards DJ, Shah A. In vivo assessment of botanical supplementation on human cytochrome P450 phenotypes: Citrus aurantium, Echinacea purpurea, milk thistle, and saw palmetto. Clin Pharmacol Ther (2004) 76, 428–40.
+Caffeine
+Milk thistle does not appear to affect the pharmacokinetics of caffeine.
+Gurley BJ, Gardner SF, Hubbard MA, Williams DK, Gentry WB, Carrier J, Khan IA, Edwards DJ, Shah A. In vivo assessment of botanical supplementation on human cytochrome P450 phenotypes: Citrus aurantium, Echinacea purpurea, milk thistle, and saw palmetto. Clin Pharmacol Ther (2004) 76, 428–40.
+Chlorzoxazone
+Milk thistle does not appear to affect the pharmacokinetics of chlorzoxazone.
+Gurley BJ, Gardner SF, Hubbard MA, Williams DK, Gentry WB, Carrier J, Khan IA, Edwards DJ, Shah A. In vivo assessment of botanical supplementation on human cytochrome P450 phenotypes: Citrus aurantium, Echinacea purpurea, milk thistle, and saw palmetto. Clin Pharmacol Ther (2004) 76, 428–40.
+Digoxin
+Milk thistle does not appear to affect the pharmacokinetics of digoxin.
+Gurley BJ, Barone GW, Williams DK, Carrier J, Breen P, Yates CR, Song P-f, Hubbard MA, Tong Y, Cheboyina S. Effect of milk thistle (Silybum marianum) and black cohosh (Cimicifuga racemosa) supplementation on digoxin pharmacokinetics in humans. Drug Metab Dispos (2006) 34, 69–74.
+
+
+Zhang S, Morris ME. Effects of the flavonoids biochanin A, morin, phloretin, and silymarin on P-glycoprotein-mediated transport. J Pharmacol Exp Ther (2003) 304, 1258–67.
+Food
+No interactions found
+
+Herbal medicines
+No interactions found.
+
+HIV-protease inhibitors
+Milk thistle does not appear to have an important effect on the pharacokinetics of indinavir. In vitro studies suggests that silibinin does not affect the pharmacokinetics of ritonavir.
+Piscitelli SC, Formentini E, Burstein AH, Alfaro R, Jagannatha S, FAlloon J. Effect of milk thistle on the pharmacokinetics of indinavir in healthy volunteers. Pharmacotherapy (2002) 22, 551-6.
+
+
+DiCenzo R, Shelton M, Jordan K, Koval C, Forrest A, Reichman R, Morse G. Coadministration of millk thistle and indinavir in healthy subjects. Pharmacotherapy (2003) 23, 866-70.
+
+
+Mills E, Wilson K, Clarke M, Foster B, Walker S, Rachlis B, DeGroot N, Montori VM, Gold W, Phillips E, Myers S, Gallicano K. Milk thistle and indinavir: a randomized controlled pharmacokinetic study and meta-analysis. Eur J Clin Pharmacol (2005) 61, 1-7.
+
+
+Patel J, Buddha B, Dey S, Pal D, Mitra AK. In vitro interaction of the HIV protease inhibitor ritonavir with herb constituents: changes in P-gp and CYP3A4 activity. Am J Ther (2004) 11, 262-77.
+Irinotecan
+Milk thistle does not appear to affect the pharmacokinetics of irinotecan.
+van Erp NPH, Baker SD, Zhao M, Rudek MA, Guchelaar H-J, Nortier JWR, Sparreboom A, Gelderblom H. Effect of milk thistle (Silybum marianum) on the pharmacokinetics of irinotecan. Clin Cancer Res (2005) 11, 7800–6.
+Metronidazole
+Silymarin (the active constituent of milk thistle) modestly reduces metronidazole levels.
+Rajnarayana K, Reddy MS, Vidyasagar J, Krishna DR. Study on the influence of silymarin pretreatment on metabolism and disposition of metronidazole. Arzneimittelforschung (2004) 54, 109–13.
+Nifedipine
+Milk thistle does not appear to alter the haemodynamic effects of nifedipine.
+Fuhr U, Beckmann-Knopp S, Jetter A, Lück H, Mengs U. The effect of silymarin on oral nifedipine pharmacokinetics. Planta Med (2007) 73, 1429–35.
+
+
+Zuber R, Modrianský M, Dvořák Z, Rohovský P, Ulrichová J, Simánek V, Anzenbacher D. Effect of silybin and its congeners on human liver microsomal cytochrome P450 activities. Phytother Res (2002) 16, 632–8.
+
+
+Beckmann-Knopp S, Rietbrock S, Weyhenmeyer R, Bocker RH, Beckerts KT, Lang W, Hunz M, Fuhr U. Inhibitory effects of silibinin on cytochrome P-450 enzymes in human liver microsomes. Pharmacol Toxicol (2000) 86, 250–6.
+Pyrazinamide
+The interaction between milk thistle and pyrazinamide is based on experimental evidence only.
+Wu J-W, Tsai T-H. Effect of silibinin on the pharmacokinetics of pyrazinamide and pyrazinoic acid in rats. Drug Metab Dispos (2007) 35, 1603–10.
+Ranitidine
+Silymarin, a major constituent of milk thistle, does not appear to affect the pharmackinetics of single-dose ranitidine.
+Rao BN, Srinivas M, Kumar YS, Rao YM. Effect of silymarin on the oral bioavailability of ranitidine in healthy human volunteers. Drug Metabol Drug Interact (2007) 22, 175–85.
+Rosuvastatin
+Silymarin, a major constituent of milk thistle, does not appear to affect the pharmackinetics of single-dose rosuvastatin.
+Deng JW, Shon J-H, Shin H-J, Park S-J, Yeo C-W, Zhou H-H, Song I-S, Shin J-G. Effect of silymarin supplement on the pharmacokinetics of rosuvastatin. Pharm Res (2008) 25, 1807–14.
+Talinolol
+Milk thistle slightly increases the exposure to talinolol.
+Han Y, Guo D, Chen Y, Tan Z-R, Zhou H-h. Effect of continous silymarin administration on oral talinolol pharmacokinetcs in healthy volunteers. Xenobiotica (2009) 39, 694-9.

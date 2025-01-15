@@ -1,0 +1,46 @@
+Berberine
+Unnamed: 1
+Unnamed: 2
+
+
+
+Synonym(s) and related species
+
+
+
+
+
+
+
+
+Monograph
+Interpretation
+Citation
+Anxiolytics
+The interaction between berberine and anxiolytics is based on"
+experimental evidence only.
+Peng W-H, Wu C-R, Chen C-S, Chen C-F, Leu Z-C, Hsieh M-T. Anxiolytic effect of berberine on exploratory activity of the mouse in two experimental anxiety models: interaction with drugs acting at 5-HT receptors. Life Sci (2004) 75, 2451–62.
+Ciclosporin
+Berberine appears to increase the bioavailability and trough blood levels of ciclosporin. Animal studies suggest that ciclosporin may affect the intestinal absorption and elimination of berberine possibly by inhibiting P-glycoprotein.
+Wu X, Li Q, Xin H, Yu A, Zhong M. Effects of berberine on the blood concentration of cyclosporin A in renal transplanted recipients: clinical and pharmacokinetic study. Eur J Clin Pharmacol (2005) 61, 567–72.
+
+
+Xin H-W, Wu X-C, Li Q, Yu A-R, Zhong M-Y, Liu Y-Y. The effects of berberine on the pharmacokinetics of ciclosporin A in healthy volunteers. Methods Find Exp Clin Pharmacol (2006) 28, 25–9.
+
+
+Tsai P-L, Tsai T-H. Hepatobiliary excretion of berberine. Drug Metab Dispos (2004) 32, 405–12.
+
+
+Pan G-Y, Wang G-J, Liu X-D, Fawcett JP, Xie Y-Y. The involvement of P-glycoprotein in berberine absorption. Pharmacol Toxicol (2002) 91, 193–7.
+Food
+No interactions found.
+
+Herbal medicines
+No interactions found.
+
+Hyoscine (Scopolamine)
+The interaction between berberine and hyoscine (scopolamine) is based on experimental evidence only.
+Peng W-H, Hsieh M-T, Wu C-R. Effect of long-term administration of berberine on scopolamine-induced amnesia in rats. Jpn J Pharmacol (1997) 74, 261–6.
+Paclitaxel
+The interaction between berberine and paclitaxel is based on experimental evidence only.
+Lin H-L, Liu T-Y, Wu C-W, Chi C-W. Berberine modulates expression of mdr1 gene product and the responses of digestive track cancer cells to paclitaxel. Br J Cancer 1999) 81, 416–22.

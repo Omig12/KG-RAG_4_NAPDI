@@ -1,0 +1,123 @@
+Liquorice
+Unnamed: 1
+Unnamed: 2
+Glycyrrhiza glabra L. (Fabaceae)
+
+
+
+
+
+Synonym(s) and related species
+
+
+Licorice.
+
+
+Spanish and Italian liquorice is Glycyrrhiza glabra var typica Reg. et Herd.
+
+
+Persian or Turkish liquorice is Glycyrrhiza glabra L var violacea Boiss.
+
+
+Russian liquorice is Glycyrrhiza glabra L var glandulifera.
+
+
+Chinese liquorice is the closely related Glycyrrhiza uralensis Fisch., also known as Gancao.
+
+
+
+
+
+Monograph
+Interpretation
+Citation
+Antihypertensives
+Liquorice may cause fluid retention and therefore reduce the effects of antihypertensives. Additive hypokalaemia may also occur with loop and thiazide diuretics.
+Sigurjonsdottir HA, Manhem K, Axelson M, Wallerstedt S. Subjects with essential hypertension are more sensitive to the inhibition of 11β-HSD by liquorice. J Hum Hypertens (2003) 17, 125–31.
+
+
+Sigurjónsdóttir HÁ, Franzson L, Manhem K, Ragnarsson J, Sigurdsson G, Wallerstedt S. Liquorice-induced rise in blood pressure: a linear dose-response relationship. J Hum Hypertens (2001) 15, 549–52.
+
+
+Walker BR, Edwards CRW. Licorice-induced hypertension and syndromes of apparent mineralocorticoid excess. Endocrinol Metab Clin North Am (1994) 23, 359–77. 
+
+
+Hammer F, Stewart PM. Cortisol metabolism in hypertension. Best Pract Res Clin Endocrinol Metab (2006) 20, 337–53.
+Caffeine
+For mention that sho-saiko-to (of which liquorice is one of 7 constituents) only slightly reduced the metabolism of caffeine in one study, see Bupleurum + Caffeine, page 99.
+
+Carbamazepine
+For mention that sho-saiko-to (of which liquorice is one of 7 constituents) did not affect the metabolism of carbamazepine in an animal study, see Bupleurum + Carbamazepine, page 99.
+
+Cilostazol
+A case report describes a case of pseudoladosteronism which was attibuted to an interaction between glycyrrhizin and cilostazol.
+Maeda Y, Inaba N, Aoyagi M, Tanase T, Shiigai T. Pseudoaldosteronism caused by combined administration of cilostazol and glycyrrhizin. Intern Med (2008) 47, 1345-8.
+Corticosteroids
+Liquorice, if given in large quantities with corticosteroids, may cause additive hypokalaemia.
+Kageyama Y, Suzuki H, Saruta T. Glycyrrhizin induces mineralocorticoid activity through alterations in cortisol metabolism in the human kidney. J Endocrinol (1992) 135, 147–52.
+
+
+Ojima M, Satoh K, Gomibuchi T, Itoh N, Kin S, Fukuchi S, Miyachi Y. The inhibitory effects of glycyrrhizin and glycyrrhetinic acid on the metabolism of cortisol and prednisolone – in vivo and in vitro studies. Nippon Naibunpi Gakkai Zasshi (1990) 66, 584–96.
+
+
+Teelucksingh S, Mackie ADR, Burt D, McIntyre MA, Brett L, Edwards CRW. Potentiation of hydrocortisone activity in skin by glycyrrhetinic acid. Lancet (1990) 335, 1060–3.
+
+
+Chen M-F, Shimada F, Kato H, Yano S, Kanaoka M. Effect of oral administration of glycyrrhizin on the pharmacokinetics of prednisolone. Endocrinol Jpn (1991) 38, 167–74.
+
+
+Chen M-F, Shimada F, Kato H, Yano S, Kanaoka M. Effect of glycyrrhizin on the pharmacokinetics of prednisolone following low dosage of prednisolone hemisuccinate. Endocrinol Jpn (1990) 37, 331–41.
+
+
+Whorwood CB, Sheppard MC, Stewart PM. Licorice inhibits 11β-hydroxysteroid dehydrogenase messenger ribonucleic acid levels and potentiates glucocorticoid hormone action. Endocrinology (1993) 132, 2287–92.
+Digitalis glycosides
+An isolated case of digoxin toxicity has been reported in an elderly patient attributed to the use of a herbal laxative containing kanzo (liquorice).
+Harada T, Ohtaki E, Misu K, Sumiyoshi T, Hosoda S. Congestive heart failure caused by digitalis toxicity in an elderly man taking a licorice-containing chinese herbal laxative. Cardiology (2002) 98, 218.
+Food
+No interactions found. Note that liquorice is consumed as part of the diet.
+
+Herbal medicines
+See under Liquorice + Laxatives, below.
+
+Iron compounds
+The interaction between liquorice and iron compounds is based on experimental evidence only.
+El-Shobaki FA, Saleh ZA, Saleh N. The effect of some beverage extracts on intestinal iron absorption. Z Ernahrungswiss (1990) 29, 264–9.
+Laxatives
+Liquorice may cause additive hypokalaemia if given in large quantities with laxatives.
+Hadley SK, Petry JJ. Medicinal herbs: A primer for primary care. Hosp Pract (1999) 34, 105–23.
+
+
+Scali M, Pratesi C, Zennaro MC, Zampollo V, Armanini D. Pseudohyperaldosteronism from liquorice-containing laxatives. J Endocrinol Invest (1990) 10, 847–8.
+
+
+Mizuhara Y, Takizawa Y, Ishihara K, Asano T, Kushida H, Morota T, Kase Y, Takeda S, Aburada M, Nomura M, Yokogawa K. The influence of the sennosides on absorption of glycyrrhetic acid in rats. Biol Pharm Bull (2005) 28, 1897–902.
+
+
+Goto E, He J-X, Akao T, Tani T. Bioavailability of glycyrrhizin from Shaoyao-GancaoTang in laxative-treated rats. J Pharm Pharmacol (2005) 57, 1359–63.
+Lopinavir
+For mention of a case of persistent diarrhoea and raised lopinavir levels in an HIV-positiive man after starting evening primrose oil and a product containing aloes, rhubarb and liquorice, see Evening primrose oil + Lopinavir, page 207.
+
+Midazolam
+Glycyrrhizin, a constituent of liquorice, very slightly reduces midazolam exposure.
+Tu J-H, He Y-J, Chen Y, Fan L, Zhang W, Tan Z-R, Huang Y-F, Guo D, Hu D-L, Wang D, Zhou H-H. Effect of glycyrrhizin on the activity of CYP3A enzyme in humans Eur J Clin Pharmacol (2010) 66, 805-10.
+
+
+Li HY, Xu W, Su J, Zhang X, Hu LW, Zhang WD. In vitro and in vivo inhibitory effects of glycyrrhetinic acid on cytochrome P450 3A activity Pharmacology (2010) 86, 287-92.
+Ofloxacin
+For mention that sho-saiko-to and sairei-to (of which liquorice is one of the constituents) did not affect the metabolism of ofloxacin, see Bupleurum + Ofloxacin, page 99.
+
+Tolbutamide
+For conflicting evidence from animal studies that sho-saiko-to (of which liquorice is one of 7 constituents) might increase or decrease the rate of absorption of tolbutamide, see Bupleurum + Tolbutamide, page 99.
+
+Ulcer-healing drugs
+The interaction between liquorice and ulcer-healing drugs is based on experimental evidence only.
+He J-X, Akao T, Nishino T, Tani T. The influence of commonly prescribed synthetic drugs for peptic ulcer on the pharmacokinetic fate of glycyrrhizin from ShaoyaoGancao tang. Biol Pharm Bull (2001) 24, 1395–9.
+
+
+He J-X, Akao T, Tani T. Repetitive administration of Shaoyao-Gancao-tang to rats restores the bioavailability of glycyrrhizin reduced by antibiotic treatment. J Pharm Pharmacol (2003) 55, 1569–75.
+Warfarin
+The interaction between liquorice and warfarin is based on experimental evidence only.
+Mu Y, Zhang J, Zhang S, Zhou H-H, Toma D, Ren S, Huang L, Yaramus M, Baum A, Venkataramanan R, Xie W. Traditional Chinese medicines Wu Wei Zi (Schisandra chinensis Baill) and Gan Cao (Glycyrrhiza uralensis Fisch) activate pregnane X receptor and increase warfarin clearance in rats. J Pharmacol Exp Ther (2006) 316, 1369–77.
+
+
+Heck AM, DeWitt BA, Lukes AL. Potential interactions between alternative therapies and warfarin. Am J Health-Syst Pharm (2000) 57, 1221–7.

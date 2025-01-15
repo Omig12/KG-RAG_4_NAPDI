@@ -1,0 +1,81 @@
+Ginger
+Unnamed: 1
+Unnamed: 2
+Zingiber officinale Roscoe (Zingiberaceae)
+
+
+
+
+
+Synonym(s) and related species
+
+
+Gan Jiang
+
+
+Zingiber
+
+
+
+
+
+Monograph
+Interpretation
+Citation
+Anticoaguants
+Evidence from pharmacological studies suggests that ginger does not increase the anticoagulant effect of warfarin, neither does it alter coagulation or platelet aggregation on its own. However, two cases reports describe markedly raised INRs with phenprocoumon and warfarin, which were associated with eating dried ginger and drinking ginger tea. A prospective, longitudinal study also reports of an increased risk of self-reported bleeding events in patients taking warfarin and ginger.
+Jiang X, Williams KM, Liauw WS, Ammit AJ, Roufogalis BD, Duke CC, Day RO, LcLachlan AJ. Effect of ginkgo and ginger on the pharmacokinetics and pharmacodynamics of warfarin in healthy subjects. Br J Clin Pharmacol (2005) 59, 425-32.
+
+
+Kruth P, Brosi E, Fux R, Morike K, Gleiter CH. Ginger-associated overanticoagulation by phenprocoumon. Ann Pharmacother (2004) 38, 257-60.
+
+
+Lesho EP, Saullo L, Udvari-Nagy S. A 76-year-old woman with erratic anticoagulation. Cleve Clin J Med (2004) 71, 651-6.
+
+
+Shalansky S, Lynd L, Richardson K, Ingaszewski A, Kerr C. Risk of warfarin-related bleeding events and supratherapeutic international normalized ratios associated with complementary and alternative medicine: a longitudinal analysis. Pharmacotherapy (2007) 27, 1237-47.
+
+
+Argento A, Tiraferri E, Marzaloni M. Anticoagulanti orali e piante medicinali. Una interazione emergente. Ann Ital Med Int (2000) 15, 139-43.
+
+
+Braun L. Herb-drug interaction guide. Aust Fam Physician (2001) 30, 473-6.
+
+
+Vacs LPJ, Chyka PA. Interactions of warfarin with garlic, ginger, ginkgo, or ginseng: nature of the evidence. Ann Pharmacother (2000) 34, 1478-82.
+
+
+Young H-Y, Liao J-C, Chang Y-S, Luo Y-L, Lu M-C, Peng W-H. Synergistic effect of ginger and nifedipine on human platelet aggregation: a study in hypertensive patients and normal volenteers. Am J Chin Med (2006) 34, 545-51.
+Caffeine
+For mention that sho-saiko-to (of which ginger is one of 7 constituents) onoy slightly reduced the metabolism of caffeine in one study, see Bupleurum + Caffeine, page 99.
+
+Carbamazepine
+For mention that saiko-ka-ryukotsu-borei-to and sho-saiko-to (of which ginger is one of a number of constituents) did not affect the pharmacokinetics of carbamazepine in animal studies, see Bupleurum + Carbamazepine, page 99.
+
+Food
+Not interactions found. Ginger is extensively used as a food ingredient.
+
+Herbal medicines
+No interactions found.
+
+Isoiazid
+For details of an animal study to investigate a possible interaction between isoniazid and Trikatu, an Ayurvedic medicine containing ginger, black pepper and long pepper, see Pepper + Isoniazid, page 375.
+
+Nifedipine
+A small study found that antiplatelet effects for ginger were synergistic with those nifedipine,  but any effect needs confirmation.
+Young H-Y, Laio J-C, Chang Y-S, Luo Y-L, Lu M-C, Peng W-H. Synergistic effect of ginger and nifedipine on human platelet aggregation: a study in hypertensive patients and normal volunteers. Am J Chin Med (2006) 34, 545-51.
+
+
+Vaes LPJ, Chyka PA. Interactions of warfarin with garlic, ginger, ginkgo, or ginseng: nature of the evidence. Ann Pharmacother (2000) 34, 1478-82.
+NSAIDs
+For details of an animal study to investigate a possibe interaction between diclofenac and Trikatu, an Ayurvedic medicine containing ginger, black pepper and long pepper, see Pepper + NSAIDs page 376.
+
+Ofloxacin
+For mention that sairei-to and sho-saiko-to (of which ginger is one of a number of constituents) do not affect the pharmacokinetics of ofloxacin, see Bupleurum + Ofloxacin, page 99.
+
+Rifampicin (Rifampin)
+For details of an interaction between rifampicin and Trikatu, an Ayurvedic medicine containing ginger, black pepper and long pepper, see Pepper + Rifampicin (Rifampin), page 377.
+
+Tolbutamide
+For conflicting evidence from animal studies that sho-saiko-to (of which ginger is one of 7 constituents) might increase or decrease the rate of absorption of tolbutamide, see Bupleurum + Tolbutamide, page 99.
+

@@ -1,0 +1,18 @@
+Ashwagandha "Unnamed: 1" "Unnamed: 2"
+"Withania somnifera (L.) Dunal (Solanaceae)"  
+  
+"Synonym(s) and related species"  
+"Winter cherry"  
+"Physalis somnifera L."  
+"Indian ginseng"  
+  
+Monograph Interpretation Citation
+"Antidiabetics + Antidiabetics" "Limited evidence suggests that ashwagandha has blood-glucose-lowering effects, which may be additive with conventional antidiabetics." "Andallu B, Radhika B. Hypoglycemic, diuretic and hypocholesterolemic effect of winter cherry (Withania somnifera, Dunal) root. Indian J Exp Biol (2000) 38, 607–9. "
+Digoxin "Ashwagandha has been shown to interfere with some methods of measuring serum digoxin levels, see Ashwagandha + Laboratory tests." 
+Food "No interactions found" 
+"Herbal Medicines" "No interactions found" 
+"Laboratory tests" "Digoxin levels might be spuriously elevated when assayed using a fluorescence polarisation immunoassay in patients taking ashwagandha. Ashwagandha does not interfere with in vitro assays for carbamazepine, gentamicin, paracetamol, phenytoin, phenobarbital, procainamide, salicylate, theophylline, tobramycin or valproic acid." "Dasgupta A, Peterson A, Wells A, Actor JK. Effect of Indian Ayurvedic medicine ashwagandha on measurement of serum digoxin and 11 commonly monitored drugs using immunoassays: study of protein binding and interaction with Digibind. Arch Pathol Lab Med (2007) 131, 1298–1303 "
+  "Dasgupta A, Kang E, Olsen M, Actor JK, Datta P. Interference of Asian, American, and Indian (Ashwagandha) ginsengs in serum digoxin measurements by a fluorescence polarization immunoassay can be minimized by using a new enzyme-linked chemiluminescent immunosorbent or turbidimetric assay. Arch Pathol Lab Med (2007) 131, 619–21. "
+  "Dasgupta A, Reyes MA. Effect of Brazilian, Indian, Siberian, Asian, and North American ginseng on serum digoxin measurement by immunoassays and binding of digoxin-like immunoreactive components of ginseng with Fab fragment of antidigoxin antibody (Digibind). Am J Clin Pathol (2005) 124, 229–36. "
+"Thyroid and Antithyroid drugs" "Limited evidence suggests that ashwagandha increases thyroid hormone levels and therefore interferes with the control of hypo- and hyperthyroidism. " "van der, Hooft CS, Hoekstra A, Winter A, de Smet PAGM, Stricker BHC. Thyreotoxicose na gebruik van ashwagandha. Ned Tijdschr Geneeskd (2005) 149, 2637–8. "
+  "Panda S, Kar A. Changes in thyroid hormone concentrations after administration of ashwagandha root extract to adult male mice. J Pharm Pharmacol (1998) 50, 1065–8. "

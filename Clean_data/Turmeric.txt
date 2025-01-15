@@ -1,0 +1,39 @@
+Turmeric
+Unnamed: 1
+Unnamed: 2
+Curcuma longa L. (Zingiberaceae)
+
+
+
+
+
+Synonym(s) and related species
+
+
+Indian saffron
+
+
+
+
+
+Monograph
+Interpretation
+Citation
+Beta blockers
+In a clinical study, curcumin, a major constituent of turmeric, decreased the absorption of talinolol, a P-glycoprotein substrate. Curcumin increased the absorption of celiprolol, another P-glycoprotein substrate, in rats.
+Juan H, Terhaag B, Cong Z, Bi-Kui Z, Rong-Hua Z, Feng W, Fen-Li S, Juan S, Jung T, Wen-Xing P. Unexpected effect of concomitantly administered curcumin on the pharmacokinetics of talinolol in healthy Chinese volunteers. Eur J Clin Pharmacol (2007) 63, 663–8.
+
+
+Zhang W, Tan TMC, Lim L-Y. Impact of curcumin-induced changes in P-glycoprotein and CYP3A expression on the pharmacokinetics of peroral celiprolol and midazolam in rats. Drug Metab Dispos (2007) 35, 110–15.
+Food
+Consider Turmeric + Herbal medicines; Pepper, below. Turmeric is used as a spice in food.
+
+Herbal medicines; Pepper
+Piperine, a major constituent of pepper, increases the bioavailability of curcumin, a major constituent of turmeric.
+Shoba G, Joy D, Joseph T, Majeed M, Rajendran R, Srinivas PSSR. Influence of piperine on the pharmacokinetics of curcumin in animals and human volunteers. Planta Med (1998) 64, 353–6.
+Iron compounds
+Turmeric does not appear to affect the bioavailability of dietary levels of iron.
+Tuntipopipat S, Judprasong K, Zeder C, Wasantwisut E, Winichagoon P, Charoenkiatkul S, Hurrell R, Walczyk T. Chili, but not turmeric, inhibits iron absorption in young women from an iron-fortified composite meal. J Nutr (2006) 136, 2970–4.
+Midazolam
+The interaction between curcumin, a major constituent of turmeric, and midazolam is based on experimental evidence only.
+Zhang W, Tan TMC, Lim L-Y. Impact of curcumin-induced changes in P-glycoprotein and CYP3A expression on the pharmacokinetics of peroral celiprolol and midazolam in rats. Drug Metab Dispos (2007) 35, 110–15.
