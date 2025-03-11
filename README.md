@@ -26,7 +26,7 @@ Thank you!
 
 Each criteria was scored between 0-4, where a score of 0 represents a complete failure of the response to address the given evaluation item and a score of 4 represents that the model's response fully satisfied the item.
 
-## Completeness Criteria:
+## Completeness Criteria: _(Max: 20 + 12 + 4 + 8 = 44)_
 - Does the source contain all the relevant BG? _(Max: 4 * 5 = 20)_
     - Pharmacokinetic Properties (NP) 
     - Pharmacokinetic Properties (Drug)
@@ -44,7 +44,7 @@ Each criteria was scored between 0-4, where a score of 0 represents a complete f
     - Reasoning for Potential Mechanisms
 
 
-## Quality Criteria:
+## Quality Criteria: _(Max: 16 + 20 + 12 = 48)_
 - Structure _(Max: 4 * 4 = 16)_
     - Does it point to other relevant resources? 
     - Does it include case studies? 
@@ -53,7 +53,7 @@ Each criteria was scored between 0-4, where a score of 0 represents a complete f
 - Resource _(Max: 4 * 5 = 20)_
     - Is the information well organized? 
     - Is the information credible? 
-    - Does it present a comprehensive view of the interaction? 
+    - Does it present a comprehensive view of the interaction?
     - Is it well cited? 
     - Is the information recent enough? 
 - Information _(Max: 4 * 3 = 12)_
@@ -70,7 +70,7 @@ Each criteria was scored between 0-4, where a score of 0 represents a complete f
 ------------
 # Templates
 
-As described in the diagram above, all of the template items were joined by string concatenation before being passed to the LLMs.
+As described in the diagram above, all template items were joined by string concatenation before being passed to the LLMs.
 
 ### Template Interaction Query:
 `query = "What are the potential mechanisms that cause an interaction between {NP} products and {Drug} that may cause {AE}?"`
